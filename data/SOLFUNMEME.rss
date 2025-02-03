@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Feed of &#34;introspector/SOLFUNMEME&#34;</title>
+    <link>https://codeberg.org/introspector/SOLFUNMEME</link>
+    <description>HMEKzp Zero Ontology System (SOLFUNMEME) </description>
+    <pubDate>Mon, 03 Feb 2025 20:01:45 +0000</pubDate>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#103</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2678458</link>
+      <description>Do we have discord? Link from dexscreener doesnt work&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://discord.gg/Epj7msnhmK&#34; rel=&#34;nofollow&#34;&gt;https://discord.gg/Epj7msnhmK&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Do we have discord? Link from dexscreener doesnt work
+
+<p dir="auto"><a href="https://discord.gg/Epj7msnhmK" rel="nofollow">https://discord.gg/Epj7msnhmK</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22955493: https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2678458</guid>
+      <pubDate>Mon, 03 Feb 2025 14:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#103</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/103</link>
+      <description>103#Do we have discord? Link from dexscreener doesnt work#</description>
+      <content:encoded><![CDATA[<p dir="auto">Do we have discord? Link from dexscreener doesnt work</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22955485: https://codeberg.org/introspector/SOLFUNMEME/issues/103</guid>
+      <pubDate>Mon, 03 Feb 2025 14:26:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#67</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2678248</link>
+      <description>Live streaming logs&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;X 9am standup &lt;a href=&#34;https://x.com/i/spaces/1yNGagbWjBvxj&#34; rel=&#34;nofollow&#34;&gt;https://x.com/i/spaces/1yNGagbWjBvxj&lt;/a&gt;&lt;br/&gt;&#xA;Discord voice chat all day as available &lt;a href=&#34;https://discord.gg/EFrqNyAd&#34; rel=&#34;nofollow&#34;&gt;https://discord.gg/EFrqNyAd&lt;/a&gt;&lt;br/&gt;&#xA;Task : continue work on one click installer, expand regions and testing and documentation.&lt;br/&gt;&#xA;&lt;a href=&#34;https://github.com/jmikedupont2/ai-agent-terraform/pull/33&#34; rel=&#34;nofollow&#34;&gt;https://github.com/jmikedupont2/ai-agent-terraform/pull/33&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;new ideas:&lt;br/&gt;&#xA;create permissioned sharing of logs&lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/102&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#102&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;streaming on x, twitch and telegram&lt;br/&gt;&#xA;&lt;a href=&#34;https://www.twitch.tv/solfunmeme&#34; rel=&#34;nofollow&#34;&gt;https://www.twitch.tv/solfunmeme&lt;/a&gt;&lt;br/&gt;&#xA;&lt;a href=&#34;https://x.com/introsp3ctor&#34; rel=&#34;nofollow&#34;&gt;https://x.com/introsp3ctor&lt;/a&gt;&lt;br/&gt;&#xA;&lt;a href=&#34;https://t.me/introsp3ctor&#34; rel=&#34;nofollow&#34;&gt;https://t.me/introsp3ctor&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Lab notes&lt;br/&gt;&#xA;&lt;a href=&#34;https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0&#34; rel=&#34;nofollow&#34;&gt;https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Live streaming logs
+
+<p dir="auto">X 9am standup <a href="https://x.com/i/spaces/1yNGagbWjBvxj" rel="nofollow">https://x.com/i/spaces/1yNGagbWjBvxj</a><br/>
+Discord voice chat all day as available <a href="https://discord.gg/EFrqNyAd" rel="nofollow">https://discord.gg/EFrqNyAd</a><br/>
+Task : continue work on one click installer, expand regions and testing and documentation.<br/>
+<a href="https://github.com/jmikedupont2/ai-agent-terraform/pull/33" rel="nofollow">https://github.com/jmikedupont2/ai-agent-terraform/pull/33</a></p>
+<p dir="auto">new ideas:<br/>
+create permissioned sharing of logs<a href="https://codeberg.org/introspector/SOLFUNMEME/issues/102" class="ref-issue" rel="nofollow">#102</a></p>
+<p dir="auto">streaming on x, twitch and telegram<br/>
+<a href="https://www.twitch.tv/solfunmeme" rel="nofollow">https://www.twitch.tv/solfunmeme</a><br/>
+<a href="https://x.com/introsp3ctor" rel="nofollow">https://x.com/introsp3ctor</a><br/>
+<a href="https://t.me/introsp3ctor" rel="nofollow">https://t.me/introsp3ctor</a></p>
+<p dir="auto">Lab notes<br/>
+<a href="https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0" rel="nofollow">https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22953225: https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2678248</guid>
+      <pubDate>Mon, 03 Feb 2025 12:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#102</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/102</link>
+      <description>102#share and redact logs#</description>
+      <content:encoded><![CDATA[<p dir="auto">Create easy option for timed, permissioned, redacted sharing of logs with specific parties.</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22952835: https://codeberg.org/introspector/SOLFUNMEME/issues/102</guid>
+      <pubDate>Mon, 03 Feb 2025 12:25:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#44</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/44#issuecomment-2678196</link>
+      <description>Build the dao; run  the dao;  rebuild the dao&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont:&lt;br/&gt;&#xA;But as I said we&amp;#39;re building the Dao now we&amp;#39;re going to get everyone on boarded and then we&amp;#39;re going to hook up the agents to all of the platforms and then we&amp;#39;re going to run it&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;So I intend to finance myself through service to the customers and selling Consulting to them and the software is going to be free and open source we&amp;#39;re going to deliver that as cheap as possible using free tier from other services to create Arbitrage opportunities&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Build the dao; run  the dao;  rebuild the dao
+
+<p dir="auto">James Michael DuPont:<br/>
+But as I said we&#39;re building the Dao now we&#39;re going to get everyone on boarded and then we&#39;re going to hook up the agents to all of the platforms and then we&#39;re going to run it</p>
+<p dir="auto">So I intend to finance myself through service to the customers and selling Consulting to them and the software is going to be free and open source we&#39;re going to deliver that as cheap as possible using free tier from other services to create Arbitrage opportunities</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22951684: https://codeberg.org/introspector/SOLFUNMEME/issues/44#issuecomment-2678196</guid>
+      <pubDate>Mon, 03 Feb 2025 11:58:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jidn_w opened issue introspector/SOLFUNMEME#101</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/101</link>
+      <description>101#Top holder - ideas#</description>
+      <content:encoded><![CDATA[<p dir="auto">I know Mike is obviously incredibly smart,  but think I’ve brought up before,  any average trader isn’t bidding because they have no simple way of understand Zos, and what it can do/bring in the future.</p>
+<p dir="auto">Needs a good explanation as to why they should buy, and what the use case is.</p>
+<p dir="auto">Make the plans clear about grants, funding, hiring 20 devs.</p>
+<p dir="auto">Make it clear for likes experience as a consultant for Eliza’s code and contributing to swarms.</p>
+]]></content:encoded>
+      <author>Jidn_w</author>
+      <guid isPermaLink="false">22935227: https://codeberg.org/introspector/SOLFUNMEME/issues/101</guid>
+      <pubDate>Mon, 03 Feb 2025 03:43:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#12</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674907</link>
+      <description>What other companies is working on similar project and what is the worth of these companies&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Griffain&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[What other companies is working on similar project and what is the worth of these companies
+
+<p dir="auto">Griffain</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22934748: https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674907</guid>
+      <pubDate>Mon, 03 Feb 2025 03:05:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#12</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674888</link>
+      <description>What other companies is working on similar project and what is the worth of these companies&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 9:42 PM]&lt;br/&gt;&#xA;is it open source? is it soverign? is it self hosted?&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 9:42 PM]&lt;br/&gt;&#xA;are they apples or oranges?&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[What other companies is working on similar project and what is the worth of these companies
+
+<p dir="auto">James Michael DuPont, [2/2/2025 9:42 PM]<br/>
+is it open source? is it soverign? is it self hosted?</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 9:42 PM]<br/>
+are they apples or oranges?</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22934471: https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674888</guid>
+      <pubDate>Mon, 03 Feb 2025 02:43:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#100</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/100</link>
+      <description>100#Look at petals / cillium#</description>
+      <content:encoded><![CDATA[<p dir="auto">Consider the previous work done on p2p llms<br/>
+<a href="https://github.com/Agent-Artificial/petals-cillium" rel="nofollow">https://github.com/Agent-Artificial/petals-cillium</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22934333: https://codeberg.org/introspector/SOLFUNMEME/issues/100</guid>
+      <pubDate>Mon, 03 Feb 2025 02:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#86</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674124</link>
+      <description>Proposed Federal DAO Model&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;so in the end you will have to hold our token like a taxi &amp;#34;license&amp;#34; to serve our customers&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;only the top 1600 at the moment are planned to have any direct voice&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;we have 4000+ holders currently&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;that will make those seats more valueable as more customers come online&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:59 AM]&lt;br/&gt;&#xA;of course the customers are free to transact with whom they want&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:59 AM]&lt;br/&gt;&#xA;but if you want to influence the decisions of the dao, you will have to play the game&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Proposed Federal DAO Model
+
+<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
+so in the end you will have to hold our token like a taxi &#34;license&#34; to serve our customers</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
+only the top 1600 at the moment are planned to have any direct voice</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
+we have 4000+ holders currently</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
+that will make those seats more valueable as more customers come online</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:59 AM]<br/>
+of course the customers are free to transact with whom they want</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:59 AM]<br/>
+but if you want to influence the decisions of the dao, you will have to play the game</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22920827: https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674124</guid>
+      <pubDate>Sun, 02 Feb 2025 17:00:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#86</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674117</link>
+      <description>Proposed Federal DAO Model&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:56 AM]&lt;br/&gt;&#xA;as the services provided by me become more valuable, so will the token because only the top N holders have access to services at level L&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Proposed Federal DAO Model
+
+<p dir="auto">James Michael DuPont, [2/2/2025 11:56 AM]<br/>
+as the services provided by me become more valuable, so will the token because only the top N holders have access to services at level L</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22920655: https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674117</guid>
+      <pubDate>Sun, 02 Feb 2025 16:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#88</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674099</link>
+      <description>mobile app&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Function to connect to grok and twitter and aws  and githhub and codeberg and telegram and discord as our bot&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[mobile app
+
+<p dir="auto">Function to connect to grok and twitter and aws  and githhub and codeberg and telegram and discord as our bot</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22920498: https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674099</guid>
+      <pubDate>Sun, 02 Feb 2025 16:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#88</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674085</link>
+      <description>mobile app&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;One function is to change the size of the asg from 0 to 1 and back&lt;br/&gt;&#xA;&lt;a href=&#34;https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html&#34; rel=&#34;nofollow&#34;&gt;https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;docker-agent-ami-t4g.small&lt;br/&gt;&#xA;docker-agent-ami-t4g.small Capacity overview&lt;br/&gt;&#xA;Edit&lt;br/&gt;&#xA;arn:aws:autoscaling:us-west-1:767503528736:autoScalingGroup:02588866-8fd4-45a9-b0ff-18416602f0a8:autoScalingGroupName/docker-agent-ami-t4g.small&lt;br/&gt;&#xA;Desired capacity&lt;br/&gt;&#xA;1&lt;br/&gt;&#xA;Scaling limits (Min - Max)&lt;br/&gt;&#xA;1 - 2&lt;br/&gt;&#xA;Desired capacity type&lt;br/&gt;&#xA;Units (number of instances)&lt;br/&gt;&#xA;Status&lt;br/&gt;&#xA;Updating capacity&lt;br/&gt;&#xA;Date created&lt;br/&gt;&#xA;Sun Feb 02 2025 08:20:18 GMT-0500 (Eastern Standard Time)&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Here is a schedule:&lt;br/&gt;&#xA;&lt;a href=&#34;https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a&#34; rel=&#34;nofollow&#34;&gt;https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;alarms&lt;br/&gt;&#xA;&lt;a href=&#34;https://github.com/aws-samples/cloudwatch-alarm-management-for-asg&#34; rel=&#34;nofollow&#34;&gt;https://github.com/aws-samples/cloudwatch-alarm-management-for-asg&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Rolling update handlers:&lt;br/&gt;&#xA;&lt;a href=&#34;https://github.com/TwiN/aws-eks-asg-rolling-update-handler&#34; rel=&#34;nofollow&#34;&gt;https://github.com/TwiN/aws-eks-asg-rolling-update-handler&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[mobile app
+
+<p dir="auto">One function is to change the size of the asg from 0 to 1 and back<br/>
+<a href="https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html" rel="nofollow">https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html</a></p>
+<p dir="auto">docker-agent-ami-t4g.small<br/>
+docker-agent-ami-t4g.small Capacity overview<br/>
+Edit<br/>
+arn:aws:autoscaling:us-west-1:767503528736:autoScalingGroup:02588866-8fd4-45a9-b0ff-18416602f0a8:autoScalingGroupName/docker-agent-ami-t4g.small<br/>
+Desired capacity<br/>
+1<br/>
+Scaling limits (Min - Max)<br/>
+1 - 2<br/>
+Desired capacity type<br/>
+Units (number of instances)<br/>
+Status<br/>
+Updating capacity<br/>
+Date created<br/>
+Sun Feb 02 2025 08:20:18 GMT-0500 (Eastern Standard Time)</p>
+<p dir="auto">Here is a schedule:<br/>
+<a href="https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a" rel="nofollow">https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a</a></p>
+<p dir="auto">alarms<br/>
+<a href="https://github.com/aws-samples/cloudwatch-alarm-management-for-asg" rel="nofollow">https://github.com/aws-samples/cloudwatch-alarm-management-for-asg</a></p>
+<p dir="auto">Rolling update handlers:<br/>
+<a href="https://github.com/TwiN/aws-eks-asg-rolling-update-handler" rel="nofollow">https://github.com/TwiN/aws-eks-asg-rolling-update-handler</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22920255: https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674085</guid>
+      <pubDate>Sun, 02 Feb 2025 16:43:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#86</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674072</link>
+      <description>Proposed Federal DAO Model&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:32 AM]&lt;br/&gt;&#xA;The plan for token utility is to have it as a gated utility and governance token, right now my proposal is here &lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/86&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#86&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;and more&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;all proposals&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;right now we are building the dao&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;with our token you will be able to vote and influence&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;you can ask questions there&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;we will make it easier and easier to use&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;with our agent&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:34 AM]&lt;br/&gt;&#xA;it will come to telegram and replace all these bots&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:34 AM]&lt;br/&gt;&#xA;and verify everyone&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:34 AM]&lt;br/&gt;&#xA;and bounce non holders out&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Proposed Federal DAO Model
+
+<p dir="auto">James Michael DuPont, [2/2/2025 11:32 AM]<br/>
+The plan for token utility is to have it as a gated utility and governance token, right now my proposal is here <a href="https://codeberg.org/introspector/SOLFUNMEME/issues/86" class="ref-issue" rel="nofollow">#86</a></p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+and more</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+all proposals</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+right now we are building the dao</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+with our token you will be able to vote and influence</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+you can ask questions there</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+we will make it easier and easier to use</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
+with our agent</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:34 AM]<br/>
+it will come to telegram and replace all these bots</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:34 AM]<br/>
+and verify everyone</p>
+<p dir="auto">James Michael DuPont, [2/2/2025 11:34 AM]<br/>
+and bounce non holders out</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22918623: https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674072</guid>
+      <pubDate>Sun, 02 Feb 2025 16:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#99</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/99</link>
+      <description>99#create an interface between AWS Q and the ai api interface#</description>
+      <content:encoded><![CDATA[<p dir="auto">We want to create a link between eliza and q so we can have it help diagnose itself.</p>
+<p dir="auto">I asked aws q iteself :<br/>
+To create an interface between Amazon Q and the AI API interface using AWS PrivateLink, you&#39;ll need to set up an interface VPC endpoint. This allows for secure, private communication between your VPC and Amazon Q without traffic traversing the public internet. Here&#39;s a step-by-step guide to accomplish this task:</p>
+<ol dir="auto">
+<li>
+<p dir="auto"><strong>Verify Prerequisites</strong></p>
+<ul dir="auto">
+<li>Ensure you have an AWS account and a VPC set up.</li>
+<li>Familiarize yourself with AWS VPC and PrivateLink concepts.</li>
+<li>Check that you&#39;re operating in a supported AWS region for Amazon Q.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Open the Amazon VPC Console</strong></p>
+<ul dir="auto">
+<li>Navigate to the AWS Management Console.</li>
+<li>Open the Amazon VPC console at <a href="https://console.aws.amazon.com/vpc/" rel="nofollow">https://console.aws.amazon.com/vpc/</a>.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Create an Interface VPC Endpoint</strong></p>
+<ul dir="auto">
+<li>In the navigation pane, choose &#34;Endpoints&#34;.</li>
+<li>Click &#34;Create Endpoint&#34;.</li>
+<li>For &#34;Service category&#34;, select &#34;AWS services&#34;.</li>
+<li>In the &#34;Service Name&#34; search box, enter &#34;q&#34; or &#34;qbusiness&#34;.</li>
+<li>Select the appropriate service name for Amazon Q (e.g., com.amazonaws.region.q or aws.api.region.qbusiness).</li>
+<li>Choose the VPC where you want to create the endpoint.</li>
+<li>Select the subnets where you want to create the endpoint network interfaces.</li>
+<li>Configure the security groups to control access to the endpoint.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Configure DNS Settings</strong></p>
+<ul dir="auto">
+<li>Enable &#34;Enable DNS name&#34; to allow applications to use the default DNS name for the service.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Review and Create</strong></p>
+<ul dir="auto">
+<li>Review your configuration settings.</li>
+<li>Click &#34;Create endpoint&#34; to finalize the process.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Verify the Endpoint</strong></p>
+<ul dir="auto">
+<li>Once created, the endpoint will appear in your list of VPC endpoints.</li>
+<li>Note the endpoint ID for future reference.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Update Security Group Rules</strong></p>
+<ul dir="auto">
+<li>Modify your security group rules to allow inbound traffic from your VPC to the new endpoint.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Configure Your Application</strong></p>
+<ul dir="auto">
+<li>Update your application configuration to use the VPC endpoint for Amazon Q API calls.</li>
+<li>If using AWS SDKs, they should automatically use the VPC endpoint when making API calls to Amazon Q.</li>
+</ul>
+</li>
+<li>
+<p dir="auto"><strong>Test the Connection</strong></p>
+<ul dir="auto">
+<li>Attempt to make an API call to Amazon Q from within your VPC to verify the connection is working through the interface endpoint.</li>
+</ul>
+</li>
+</ol>
+<p dir="auto">By completing these steps, you will have successfully created an interface between Amazon Q and the AI API interface using AWS PrivateLink. This setup ensures that your communication with Amazon Q remains secure and private within the AWS network.</p>
+<p dir="auto">Remember to regularly review and update your VPC endpoint configuration and associated security groups to maintain the security of your environment. Always follow the principle of least privilege when configuring access permissions.<br/>
+Sources<br/>
+[1] [Amazon Q Developer and interface endpoints (AWS PrivateLink) - Amazon Q Developer] (<a href="https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/vpc-interface-endpoints.html" rel="nofollow">https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/vpc-interface-endpoints.html</a>)<br/>
+[3] [Customize Amazon Q in Connect - Amazon Connect] (<a href="https://docs.aws.amazon.com/connect/latest/adminguide/customize-q.html" rel="nofollow">https://docs.aws.amazon.com/connect/latest/adminguide/customize-q.html</a>)<br/>
+[6] [Amazon Q Business and interface Amazon VPC endpoints (AWS PrivateLink) - Amazon Q Business] (<a href="https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/vpc-interface-endpoints.html" rel="nofollow">https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/vpc-interface-endpoints.html</a>)</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22902953: https://codeberg.org/introspector/SOLFUNMEME/issues/99</guid>
+      <pubDate>Sun, 02 Feb 2025 11:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#67</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2673326</link>
+      <description>Live streaming logs&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;9am standup&lt;br/&gt;&#xA;&lt;a href=&#34;https://x.com/i/spaces/1YqxovlLRnyJv&#34; rel=&#34;nofollow&#34;&gt;https://x.com/i/spaces/1YqxovlLRnyJv&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Today:&lt;br/&gt;&#xA;working on testing and debugging aws CloudFormation on click installer&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Limited X Streaming, Sunday is family day&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Live streaming logs
+
+<p dir="auto">9am standup<br/>
+<a href="https://x.com/i/spaces/1YqxovlLRnyJv" rel="nofollow">https://x.com/i/spaces/1YqxovlLRnyJv</a></p>
+<p dir="auto">Today:<br/>
+working on testing and debugging aws CloudFormation on click installer</p>
+<p dir="auto">Limited X Streaming, Sunday is family day</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22901392: https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2673326</guid>
+      <pubDate>Sun, 02 Feb 2025 10:05:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector reopened issue introspector/SOLFUNMEME#23</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667798</link>
+      <description>Setup SOLFUNMEME twitter bot</description>
+      <content:encoded><![CDATA[Setup SOLFUNMEME twitter bot]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22882830: https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667798</guid>
+      <pubDate>Sat, 01 Feb 2025 20:18:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#23</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667797</link>
+      <description>Setup SOLFUNMEME twitter bot&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;done&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Setup SOLFUNMEME twitter bot
+
+<p dir="auto">done</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22882824: https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667797</guid>
+      <pubDate>Sat, 01 Feb 2025 20:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector closed issue introspector/SOLFUNMEME#23</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667796</link>
+      <description>Setup SOLFUNMEME twitter bot</description>
+      <content:encoded><![CDATA[Setup SOLFUNMEME twitter bot]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22882819: https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667796</guid>
+      <pubDate>Sat, 01 Feb 2025 20:17:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#98</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/98</link>
+      <description>98#Add regions to one click installer options#</description>
+      <content:encoded><![CDATA[<p dir="auto">us-east-1<br/>
+us-east-2</p>
+<p dir="auto">Europe (Frankfurt)	eu-central-1</p>
+<p dir="auto"><a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html" rel="nofollow">https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22881137: https://codeberg.org/introspector/SOLFUNMEME/issues/98</guid>
+      <pubDate>Sat, 01 Feb 2025 18:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#12</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2666365</link>
+      <description>What other companies is working on similar project and what is the worth of these companies&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://github.com/openSVM&#34; rel=&#34;nofollow&#34;&gt;https://github.com/openSVM&lt;/a&gt; chatgpt audit of solana blockchain&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[What other companies is working on similar project and what is the worth of these companies
+
+<p dir="auto"><a href="https://github.com/openSVM" rel="nofollow">https://github.com/openSVM</a> chatgpt audit of solana blockchain</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22868707: https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2666365</guid>
+      <pubDate>Sat, 01 Feb 2025 10:17:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#53</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/53#issuecomment-2665962</link>
+      <description>Forge&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://github.com/client-api/forgejo-python&#34; rel=&#34;nofollow&#34;&gt;https://github.com/client-api/forgejo-python&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Forge
+
+<p dir="auto"><a href="https://github.com/client-api/forgejo-python" rel="nofollow">https://github.com/client-api/forgejo-python</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22855428: https://codeberg.org/introspector/SOLFUNMEME/issues/53#issuecomment-2665962</guid>
+      <pubDate>Sat, 01 Feb 2025 01:17:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#97</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/97</link>
+      <description>97#requests 1#</description>
+      <content:encoded><![CDATA[<p dir="auto">1 new message</p>
+<h3 id="user-content-website-and-social-media-updates" dir="auto">Website and Social Media Updates</h3>
+<ul dir="auto">
+<li>Update the link to the new website.</li>
+<li>Modify Mike&#39;s Twitter bio:
+<ul dir="auto">
+<li>Replace &#34;zos-sfm founder&#34; with &#34;official<br/>
+@zos_sfm<br/>
+Twitter account.&#34;</li>
+</ul>
+</li>
+<li>Update Mike’s Linktree:
+<ul dir="auto">
+<li>Include the official SFM website.</li>
+<li>Include the official Twitter account.</li>
+</ul>
+</li>
+<li>Ensure &#34;solfunmeme&#34; is included in the Twitter account name or at least in the bio:
+<ul dir="auto">
+<li>&#34;Manage and Host your own AI token with one click <em>Solfunmeme</em> CA: BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump.&#34;</li>
+</ul>
+</li>
+<li>Execute a general clean rebrand.</li>
+</ul>
+<h3 id="user-content-communication-strategy" dir="auto">Communication Strategy</h3>
+<ul dir="auto">
+<li>Increase updates/tweets from the main Twitter account:
+<ul dir="auto">
+<li>Consider quote tweeting Mike&#39;s restream on the<br/>
+@zos_sfm<br/>
+account to summarize completed work.</li>
+</ul>
+</li>
+<li>Provide GitHub/Codeberg explanations:
+<ul dir="auto">
+<li>Consider creating a GitBook for documentation; offer assistance or take on the project.</li>
+</ul>
+</li>
+<li>Avoid discussing price or posting SFM charts:
+<ul dir="auto">
+<li>Acknowledge that discussing price is generally taboo for developers on crypto Twitter.</li>
+</ul>
+</li>
+<li>Share general SFM explanations on Twitter:
+<ul dir="auto">
+<li>Address common questions about what SFM is, as many users may not know<br/>
+DJ · 7:29 PM</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22854138: https://codeberg.org/introspector/SOLFUNMEME/issues/97</guid>
+      <pubDate>Sat, 01 Feb 2025 00:42:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#96</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/96</link>
+      <description>96#Cloud provider kamatera#</description>
+      <content:encoded><![CDATA[<p dir="auto"><a href="https://registry.terraform.io/providers/Kamatera/kamatera/latest/docs" rel="nofollow">https://registry.terraform.io/providers/Kamatera/kamatera/latest/docs</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22843936: https://codeberg.org/introspector/SOLFUNMEME/issues/96</guid>
+      <pubDate>Fri, 31 Jan 2025 20:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#95</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/95</link>
+      <description>95#add single server launch#</description>
+      <content:encoded><![CDATA[<p dir="auto">Modify cloudformation for a single server</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22843318: https://codeberg.org/introspector/SOLFUNMEME/issues/95</guid>
+      <pubDate>Fri, 31 Jan 2025 19:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#94</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/94</link>
+      <description>94#Terraformer#</description>
+      <content:encoded><![CDATA[<p dir="auto"><a href="https://github.com/GoogleCloudPlatform/terraformer" rel="nofollow">https://github.com/GoogleCloudPlatform/terraformer</a><br/>
+<a href="https://former2.com/" rel="nofollow">https://former2.com/</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22843306: https://codeberg.org/introspector/SOLFUNMEME/issues/94</guid>
+      <pubDate>Fri, 31 Jan 2025 19:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>JazladCrypto commented on issue introspector/SOLFUNMEME#92</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/92#issuecomment-2664852</link>
+      <description>X (Twitter) and telegram raids&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://x.com/JazladCrypto21/status/1885338280356462742&#34; rel=&#34;nofollow&#34;&gt;https://x.com/JazladCrypto21/status/1885338280356462742&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[X (Twitter) and telegram raids
+
+<p dir="auto"><a href="https://x.com/JazladCrypto21/status/1885338280356462742" rel="nofollow">https://x.com/JazladCrypto21/status/1885338280356462742</a></p>
+]]></content:encoded>
+      <author>JazladCrypto</author>
+      <guid isPermaLink="false">22829829: https://codeberg.org/introspector/SOLFUNMEME/issues/92#issuecomment-2664852</guid>
+      <pubDate>Fri, 31 Jan 2025 15:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>JazladCrypto closed issue introspector/SOLFUNMEME#93</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/93#issuecomment-2664851</link>
+      <description>raid</description>
+      <content:encoded><![CDATA[raid]]></content:encoded>
+      <author>JazladCrypto</author>
+      <guid isPermaLink="false">22829823: https://codeberg.org/introspector/SOLFUNMEME/issues/93#issuecomment-2664851</guid>
+      <pubDate>Fri, 31 Jan 2025 15:02:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>JazladCrypto opened issue introspector/SOLFUNMEME#93</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/93</link>
+      <description>93#raid#</description>
+      <content:encoded><![CDATA[<p dir="auto"><a href="https://x.com/JazladCrypto21/status/1885338280356462742" rel="nofollow">https://x.com/JazladCrypto21/status/1885338280356462742</a></p>
+]]></content:encoded>
+      <author>JazladCrypto</author>
+      <guid isPermaLink="false">22829817: https://codeberg.org/introspector/SOLFUNMEME/issues/93</guid>
+      <pubDate>Fri, 31 Jan 2025 15:02:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#4</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/4#issuecomment-2664796</link>
+      <description>Proposal : create inscriptions in SOLFUNMEME&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;the idea is we burn tokens to create inscriptions to host other agents on our token with solana&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Proposal : create inscriptions in SOLFUNMEME
+
+<p dir="auto">the idea is we burn tokens to create inscriptions to host other agents on our token with solana</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">22829141: https://codeberg.org/introspector/SOLFUNMEME/issues/4#issuecomment-2664796</guid>
+      <pubDate>Fri, 31 Jan 2025 14:41:02 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
