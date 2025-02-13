@@ -1,7 +1,7 @@
 
-wget https://codeberg.org/introspector.rss -o introspector.rss
-wget https://codeberg.org/introspector/SOLFUNMEME.rss -O SOLFUNMEME.rss
-wget https://codeberg.org/introspector/meta-meme.rss -O meta-meme.rss
+wget -q https://codeberg.org/introspector.rss -O introspector.rss
+wget -q https://codeberg.org/introspector/SOLFUNMEME.rss -O SOLFUNMEME.rss
+wget -q https://codeberg.org/introspector/meta-meme.rss -O meta-meme.rss
 
 #wget https://api.github.com/meta-introspector/meta-meme/events
 

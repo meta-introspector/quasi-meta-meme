@@ -2,544 +2,653 @@
   <channel>
     <title>Feed of &#34;introspector/SOLFUNMEME&#34;</title>
     <link>https://codeberg.org/introspector/SOLFUNMEME</link>
-    <description>HMEKzp Zero Ontology System (SOLFUNMEME) </description>
-    <pubDate>Mon, 03 Feb 2025 20:01:45 +0000</pubDate>
+    <description>HMEKzp Zero Ontology System (SOLFUNMEME) (ca BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump)</description>
+    <pubDate>Thu, 13 Feb 2025 11:49:31 +0000</pubDate>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#103</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2678458</link>
-      <description>Do we have discord? Link from dexscreener doesnt work&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://discord.gg/Epj7msnhmK&#34; rel=&#34;nofollow&#34;&gt;https://discord.gg/Epj7msnhmK&lt;/a&gt;&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Do we have discord? Link from dexscreener doesnt work
-
-<p dir="auto"><a href="https://discord.gg/Epj7msnhmK" rel="nofollow">https://discord.gg/Epj7msnhmK</a></p>
+      <title>introspector opened issue introspector/SOLFUNMEME#142</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/142</link>
+      <description>142#music generators#</description>
+      <content:encoded><![CDATA[<p dir="auto"><a href="https://github.com/multimodal-art-projection/YuE" rel="nofollow">https://github.com/multimodal-art-projection/YuE</a><br/>
+<a href="https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/AI-Music-Generation-Audiocraft-Tutorial.md" rel="nofollow">https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/AI-Music-Generation-Audiocraft-Tutorial.md</a><br/>
+<a href="https://github.com/elizaOS/eliza/blob/81a35281b93d5e8ca0745e9d13a1943e9a90681b/docs/community/Discord/development/coders/chat_2024-10-30.md?plain=1#L26" rel="nofollow"><code>81a35281b9/docs/community/Discord/development/coders/chat_2024-10-30.md (L26)</code></a><br/>
+<a href="https://github.com/facebookresearch/audiocraft/" rel="nofollow">https://github.com/facebookresearch/audiocraft/</a><br/>
+<a href="https://github.com/gcui-art/suno-api" rel="nofollow">https://github.com/gcui-art/suno-api</a><br/>
+<a href="https://github.com/jacbz/Lofi" rel="nofollow">https://github.com/jacbz/Lofi</a><br/>
+<a href="https://github.com/HBashanaE/unofficial-suno-sdk-typescript" rel="nofollow">https://github.com/HBashanaE/unofficial-suno-sdk-typescript</a><br/>
+<a href="https://github.com/302ai/302_music_generator" rel="nofollow">https://github.com/302ai/302_music_generator</a></p>
+<p dir="auto"><a href="https://github.com/gabotechs/MusicGPT" rel="nofollow">https://github.com/gabotechs/MusicGPT</a><br/>
+<a href="https://dash.302.ai" rel="nofollow">https://dash.302.ai</a></p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22955493: https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2678458</guid>
-      <pubDate>Mon, 03 Feb 2025 14:26:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#103</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/103</link>
-      <description>103#Do we have discord? Link from dexscreener doesnt work#</description>
-      <content:encoded><![CDATA[<p dir="auto">Do we have discord? Link from dexscreener doesnt work</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22955485: https://codeberg.org/introspector/SOLFUNMEME/issues/103</guid>
-      <pubDate>Mon, 03 Feb 2025 14:26:26 +0000</pubDate>
+      <guid isPermaLink="false">23497107: https://codeberg.org/introspector/SOLFUNMEME/issues/142</guid>
+      <pubDate>Wed, 12 Feb 2025 21:08:38 +0000</pubDate>
     </item>
     <item>
       <title>introspector commented on issue introspector/SOLFUNMEME#67</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2678248</link>
-      <description>Live streaming logs&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;X 9am standup &lt;a href=&#34;https://x.com/i/spaces/1yNGagbWjBvxj&#34; rel=&#34;nofollow&#34;&gt;https://x.com/i/spaces/1yNGagbWjBvxj&lt;/a&gt;&lt;br/&gt;&#xA;Discord voice chat all day as available &lt;a href=&#34;https://discord.gg/EFrqNyAd&#34; rel=&#34;nofollow&#34;&gt;https://discord.gg/EFrqNyAd&lt;/a&gt;&lt;br/&gt;&#xA;Task : continue work on one click installer, expand regions and testing and documentation.&lt;br/&gt;&#xA;&lt;a href=&#34;https://github.com/jmikedupont2/ai-agent-terraform/pull/33&#34; rel=&#34;nofollow&#34;&gt;https://github.com/jmikedupont2/ai-agent-terraform/pull/33&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;new ideas:&lt;br/&gt;&#xA;create permissioned sharing of logs&lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/102&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#102&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;streaming on x, twitch and telegram&lt;br/&gt;&#xA;&lt;a href=&#34;https://www.twitch.tv/solfunmeme&#34; rel=&#34;nofollow&#34;&gt;https://www.twitch.tv/solfunmeme&lt;/a&gt;&lt;br/&gt;&#xA;&lt;a href=&#34;https://x.com/introsp3ctor&#34; rel=&#34;nofollow&#34;&gt;https://x.com/introsp3ctor&lt;/a&gt;&lt;br/&gt;&#xA;&lt;a href=&#34;https://t.me/introsp3ctor&#34; rel=&#34;nofollow&#34;&gt;https://t.me/introsp3ctor&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Lab notes&lt;br/&gt;&#xA;&lt;a href=&#34;https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0&#34; rel=&#34;nofollow&#34;&gt;https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2815119</link>
+      <description>Live streaming logs&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont:&lt;br/&gt;&#xA;Lately we&amp;#39;ve been heads down working on a new version of Eliza&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;We hope to add in the voice modules now&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And other modules were integrating the new changes from Eliza&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;So we have a smaller version of a Liza that has less functionality and now we&amp;#39;re upgrading that to the newer version&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Also I&amp;#39;m in discussion for our in-person meetups we&amp;#39;re working on our LLC&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;I&amp;#39;m trying to recruit more people more devs&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And we&amp;#39;re going to add in more Frameworks besides Eliza to our system&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;We already support swarms and now and I also have Auto GPT prepared two years ago&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And also we talked to prompt book today&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And you can check the ticket system if you want to update on everything&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Well right now we&amp;#39;re basically I don&amp;#39;t know do you know the Eliza&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Have you seen the Twitter bot that I set up the t i n e is not Eliza&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;So right now that&amp;#39;s our main product is the AI Twitter bot based on Eliza that you can self host on AWS this year for free&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And we&amp;#39;re going to build that out to have more functions and it&amp;#39;s going to then be part of our coin and interact with our chain&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;So that&amp;#39;s basically going to be the implementation of our protocol&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;We could imagine that we can implement it with many different agents or tools&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And then later once we have enough of these agents running they can then host people who don&amp;#39;t want to run&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;So if you don&amp;#39;t want to run your own servers you can create an agent and then ask other people to run it for you and that way you can then choose between the many different providers&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And then we can start taking the customers away from virtuals&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And moving their agents to our system that will give them more freedom&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;And all the while paying in our coin&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;That&amp;#39;s my current thinking&lt;/p&gt;&#xA;</description>
       <content:encoded><![CDATA[Live streaming logs
-
-<p dir="auto">X 9am standup <a href="https://x.com/i/spaces/1yNGagbWjBvxj" rel="nofollow">https://x.com/i/spaces/1yNGagbWjBvxj</a><br/>
-Discord voice chat all day as available <a href="https://discord.gg/EFrqNyAd" rel="nofollow">https://discord.gg/EFrqNyAd</a><br/>
-Task : continue work on one click installer, expand regions and testing and documentation.<br/>
-<a href="https://github.com/jmikedupont2/ai-agent-terraform/pull/33" rel="nofollow">https://github.com/jmikedupont2/ai-agent-terraform/pull/33</a></p>
-<p dir="auto">new ideas:<br/>
-create permissioned sharing of logs<a href="https://codeberg.org/introspector/SOLFUNMEME/issues/102" class="ref-issue" rel="nofollow">#102</a></p>
-<p dir="auto">streaming on x, twitch and telegram<br/>
-<a href="https://www.twitch.tv/solfunmeme" rel="nofollow">https://www.twitch.tv/solfunmeme</a><br/>
-<a href="https://x.com/introsp3ctor" rel="nofollow">https://x.com/introsp3ctor</a><br/>
-<a href="https://t.me/introsp3ctor" rel="nofollow">https://t.me/introsp3ctor</a></p>
-<p dir="auto">Lab notes<br/>
-<a href="https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0" rel="nofollow">https://docs.google.com/document/d/1mqPOuE6X4mrRWWdszrtVkqmVs1NW1SHP_R7AqrIcxGA/edit?tab=t.0</a></p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22953225: https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2678248</guid>
-      <pubDate>Mon, 03 Feb 2025 12:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#102</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/102</link>
-      <description>102#share and redact logs#</description>
-      <content:encoded><![CDATA[<p dir="auto">Create easy option for timed, permissioned, redacted sharing of logs with specific parties.</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22952835: https://codeberg.org/introspector/SOLFUNMEME/issues/102</guid>
-      <pubDate>Mon, 03 Feb 2025 12:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#44</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/44#issuecomment-2678196</link>
-      <description>Build the dao; run  the dao;  rebuild the dao&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont:&lt;br/&gt;&#xA;But as I said we&amp;#39;re building the Dao now we&amp;#39;re going to get everyone on boarded and then we&amp;#39;re going to hook up the agents to all of the platforms and then we&amp;#39;re going to run it&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;So I intend to finance myself through service to the customers and selling Consulting to them and the software is going to be free and open source we&amp;#39;re going to deliver that as cheap as possible using free tier from other services to create Arbitrage opportunities&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Build the dao; run  the dao;  rebuild the dao
 
 <p dir="auto">James Michael DuPont:<br/>
-But as I said we&#39;re building the Dao now we&#39;re going to get everyone on boarded and then we&#39;re going to hook up the agents to all of the platforms and then we&#39;re going to run it</p>
-<p dir="auto">So I intend to finance myself through service to the customers and selling Consulting to them and the software is going to be free and open source we&#39;re going to deliver that as cheap as possible using free tier from other services to create Arbitrage opportunities</p>
+Lately we&#39;ve been heads down working on a new version of Eliza</p>
+<p dir="auto">We hope to add in the voice modules now</p>
+<p dir="auto">And other modules were integrating the new changes from Eliza</p>
+<p dir="auto">So we have a smaller version of a Liza that has less functionality and now we&#39;re upgrading that to the newer version</p>
+<p dir="auto">Also I&#39;m in discussion for our in-person meetups we&#39;re working on our LLC</p>
+<p dir="auto">I&#39;m trying to recruit more people more devs</p>
+<p dir="auto">And we&#39;re going to add in more Frameworks besides Eliza to our system</p>
+<p dir="auto">We already support swarms and now and I also have Auto GPT prepared two years ago</p>
+<p dir="auto">And also we talked to prompt book today</p>
+<p dir="auto">And you can check the ticket system if you want to update on everything</p>
+<p dir="auto">Well right now we&#39;re basically I don&#39;t know do you know the Eliza</p>
+<p dir="auto">Have you seen the Twitter bot that I set up the t i n e is not Eliza</p>
+<p dir="auto">So right now that&#39;s our main product is the AI Twitter bot based on Eliza that you can self host on AWS this year for free</p>
+<p dir="auto">And we&#39;re going to build that out to have more functions and it&#39;s going to then be part of our coin and interact with our chain</p>
+<p dir="auto">So that&#39;s basically going to be the implementation of our protocol</p>
+<p dir="auto">We could imagine that we can implement it with many different agents or tools</p>
+<p dir="auto">And then later once we have enough of these agents running they can then host people who don&#39;t want to run</p>
+<p dir="auto">So if you don&#39;t want to run your own servers you can create an agent and then ask other people to run it for you and that way you can then choose between the many different providers</p>
+<p dir="auto">And then we can start taking the customers away from virtuals</p>
+<p dir="auto">And moving their agents to our system that will give them more freedom</p>
+<p dir="auto">And all the while paying in our coin</p>
+<p dir="auto">That&#39;s my current thinking</p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22951684: https://codeberg.org/introspector/SOLFUNMEME/issues/44#issuecomment-2678196</guid>
-      <pubDate>Mon, 03 Feb 2025 11:58:45 +0000</pubDate>
+      <guid isPermaLink="false">23489639: https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2815119</guid>
+      <pubDate>Wed, 12 Feb 2025 18:41:05 +0000</pubDate>
     </item>
     <item>
-      <title>Jidn_w opened issue introspector/SOLFUNMEME#101</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/101</link>
-      <description>101#Top holder - ideas#</description>
-      <content:encoded><![CDATA[<p dir="auto">I know Mike is obviously incredibly smart,  but think I’ve brought up before,  any average trader isn’t bidding because they have no simple way of understand Zos, and what it can do/bring in the future.</p>
-<p dir="auto">Needs a good explanation as to why they should buy, and what the use case is.</p>
-<p dir="auto">Make the plans clear about grants, funding, hiring 20 devs.</p>
-<p dir="auto">Make it clear for likes experience as a consultant for Eliza’s code and contributing to swarms.</p>
-]]></content:encoded>
-      <author>Jidn_w</author>
-      <guid isPermaLink="false">22935227: https://codeberg.org/introspector/SOLFUNMEME/issues/101</guid>
-      <pubDate>Mon, 03 Feb 2025 03:43:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#12</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674907</link>
-      <description>What other companies is working on similar project and what is the worth of these companies&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Griffain&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[What other companies is working on similar project and what is the worth of these companies
+      <title>introspector commented on issue introspector/SOLFUNMEME#126</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/126#issuecomment-2814845</link>
+      <description>porting of agents from platform X&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://miniapps.ai/&#34; rel=&#34;nofollow&#34;&gt;https://miniapps.ai/&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[porting of agents from platform X
 
-<p dir="auto">Griffain</p>
+<p dir="auto"><a href="https://miniapps.ai/" rel="nofollow">https://miniapps.ai/</a></p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22934748: https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674907</guid>
-      <pubDate>Mon, 03 Feb 2025 03:05:24 +0000</pubDate>
+      <guid isPermaLink="false">23487049: https://codeberg.org/introspector/SOLFUNMEME/issues/126#issuecomment-2814845</guid>
+      <pubDate>Wed, 12 Feb 2025 17:27:30 +0000</pubDate>
     </item>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#12</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674888</link>
-      <description>What other companies is working on similar project and what is the worth of these companies&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 9:42 PM]&lt;br/&gt;&#xA;is it open source? is it soverign? is it self hosted?&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 9:42 PM]&lt;br/&gt;&#xA;are they apples or oranges?&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[What other companies is working on similar project and what is the worth of these companies
+      <title>introspector opened issue introspector/SOLFUNMEME#141</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/141</link>
+      <description>141#SOLFUNMEME: A Psychedelic Symphony#</description>
+      <content:encoded><![CDATA[<h1 id="user-content-solfunmeme-a-psychedelic-symphony" dir="auto">SOLFUNMEME: A Psychedelic Symphony</h1>
+<h2 id="user-content-core-structure" dir="auto">Core Structure</h2>
+<p dir="auto">The piece should be structured in concentric layers, like ripples emanating from a central point, with each layer building upon and interweaving with the others.</p>
+<h3 id="user-content-central-theme-the-eye" dir="auto">Central Theme (&#34;The Eye&#34;)</h3>
+<ul dir="auto">
+<li>Begin with a haunting, crystalline tone in the higher register (suggesting the pupil)</li>
+<li>Layer in concentric rings of harmonies using synthesizers:
+<ul dir="auto">
+<li>Start with a pulsing B minor chord that grows in intensity</li>
+<li>Add shimmering arpeggios in blues and greens (using metallic-sounding synthesis)</li>
+<li>Include mechanical, circuit-like rhythmic patterns using precise, digital sounds</li>
+</ul>
+</li>
+</ul>
+<h3 id="user-content-surrounding-motif-the-petals" dir="auto">Surrounding Motif (&#34;The Petals&#34;)</h3>
+<ul dir="auto">
+<li>Deep, rich red tones represented by low brass or deep synthesizer pads</li>
+<li>Create a fractal-like pattern by using a repeating melody that transforms slightly with each iteration</li>
+<li>The melody should spiral outward, growing more complex with each repetition</li>
+<li>Use textural layers of sound to create a sense of depth and dimension</li>
+</ul>
+<h3 id="user-content-moving-elements-the-tentacles" dir="auto">Moving Elements (&#34;The Tentacles&#34;)</h3>
+<ul dir="auto">
+<li>Flowing, cream-colored movements represented by gliding strings or smooth synthesizer sweeps</li>
+<li>Each melodic line should curve and spiral outward from the central theme</li>
+<li>End each phrase with a bright, glowing tone (representing the sphere at each tentacle&#39;s tip)</li>
+<li>Create gradual transitions between notes using pitch bending and smooth glissandos</li>
+</ul>
+<h3 id="user-content-background-texture" dir="auto">Background Texture</h3>
+<ul dir="auto">
+<li>Establish a foundational drone that shifts from deep blue tones (low frequencies) to warm golden tones (mid-frequencies)</li>
+<li>Incorporate subtle geometric patterns using precise, mathematical rhythms</li>
+<li>Add swirling ambient sounds that move through the stereo field</li>
+<li>Include occasional sparkles of high frequencies to represent the scattered light points</li>
+</ul>
+<h3 id="user-content-mystical-element" dir="auto">Mystical Element</h3>
+<ul dir="auto">
+<li>Above the main themes, include a recurring four-note motif in a bright, star-like timbre</li>
+<li>This motif should appear at key structural moments, adding a mysterious quality</li>
+</ul>
+<h2 id="user-content-technical-specifications" dir="auto">Technical Specifications</h2>
+<ul dir="auto">
+<li>Tempo: Fluid and breathing, approximately 72-80 BPM</li>
+<li>Key: Center around B minor with modal shifts</li>
+<li>Time Signature: Mixed meters that create a floating sensation</li>
+<li>Duration: 7-10 minutes to allow full development of all elements</li>
+</ul>
+<h2 id="user-content-production-notes" dir="auto">Production Notes</h2>
+<ul dir="auto">
+<li>Heavy use of reverb and delay to create a psychedelic atmosphere</li>
+<li>Panoramic stereo movement to enhance the swirling effect</li>
+<li>Layer multiple synthesizer tones to achieve rich, organic textures</li>
+<li>Use automated filters to create breathing, pulsing effects</li>
+<li>Maintain symmetry in the arrangement while allowing for organic evolution</li>
+</ul>
+<h2 id="user-content-performance-instructions" dir="auto">Performance Instructions</h2>
+<p dir="auto">The piece should evoke a sense of expanding consciousness and hypnotic introspection. Performers/producers should approach it as a journey through layers of reality, where mechanical precision meets organic flow. Allow each section to breathe and evolve naturally while maintaining the central pulsing rhythm that represents the eye&#39;s glow.</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23487018: https://codeberg.org/introspector/SOLFUNMEME/issues/141</guid>
+      <pubDate>Wed, 12 Feb 2025 17:26:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#140</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/140</link>
+      <description>140#Funding#</description>
+      <content:encoded><![CDATA[<p dir="auto">add in vc, hackathons, grants here</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23481890: https://codeberg.org/introspector/SOLFUNMEME/issues/140</guid>
+      <pubDate>Wed, 12 Feb 2025 15:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#138</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/138#issuecomment-2814045</link>
+      <description>pickup hosting&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/126&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#126&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[pickup hosting
 
-<p dir="auto">James Michael DuPont, [2/2/2025 9:42 PM]<br/>
-is it open source? is it soverign? is it self hosted?</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 9:42 PM]<br/>
-are they apples or oranges?</p>
+<p dir="auto"><a href="https://codeberg.org/introspector/SOLFUNMEME/issues/126" class="ref-issue" rel="nofollow">#126</a></p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22934471: https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2674888</guid>
-      <pubDate>Mon, 03 Feb 2025 02:43:23 +0000</pubDate>
+      <guid isPermaLink="false">23473249: https://codeberg.org/introspector/SOLFUNMEME/issues/138#issuecomment-2814045</guid>
+      <pubDate>Wed, 12 Feb 2025 11:35:33 +0000</pubDate>
     </item>
     <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#100</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/100</link>
-      <description>100#Look at petals / cillium#</description>
-      <content:encoded><![CDATA[<p dir="auto">Consider the previous work done on p2p llms<br/>
-<a href="https://github.com/Agent-Artificial/petals-cillium" rel="nofollow">https://github.com/Agent-Artificial/petals-cillium</a></p>
-]]></content:encoded>
+      <title>introspector closed issue introspector/SOLFUNMEME#103</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2814021</link>
+      <description>Do we have discord? Link from dexscreener doesnt work</description>
+      <content:encoded><![CDATA[Do we have discord? Link from dexscreener doesnt work]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22934333: https://codeberg.org/introspector/SOLFUNMEME/issues/100</guid>
-      <pubDate>Mon, 03 Feb 2025 02:35:59 +0000</pubDate>
+      <guid isPermaLink="false">23472709: https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2814021</guid>
+      <pubDate>Wed, 12 Feb 2025 11:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#86</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674124</link>
-      <description>Proposed Federal DAO Model&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;so in the end you will have to hold our token like a taxi &amp;#34;license&amp;#34; to serve our customers&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;only the top 1600 at the moment are planned to have any direct voice&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;we have 4000+ holders currently&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:58 AM]&lt;br/&gt;&#xA;that will make those seats more valueable as more customers come online&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:59 AM]&lt;br/&gt;&#xA;of course the customers are free to transact with whom they want&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:59 AM]&lt;br/&gt;&#xA;but if you want to influence the decisions of the dao, you will have to play the game&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Proposed Federal DAO Model
+      <title>introspector commented on issue introspector/SOLFUNMEME#103</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2814020</link>
+      <description>Do we have discord? Link from dexscreener doesnt work&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://discord.gg/tzk3xgsQ&#34; rel=&#34;nofollow&#34;&gt;https://discord.gg/tzk3xgsQ&lt;/a&gt; is the link from dex screener it works.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Do we have discord? Link from dexscreener doesnt work
 
-<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
-so in the end you will have to hold our token like a taxi &#34;license&#34; to serve our customers</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
-only the top 1600 at the moment are planned to have any direct voice</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
-we have 4000+ holders currently</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:58 AM]<br/>
-that will make those seats more valueable as more customers come online</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:59 AM]<br/>
-of course the customers are free to transact with whom they want</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:59 AM]<br/>
-but if you want to influence the decisions of the dao, you will have to play the game</p>
+<p dir="auto"><a href="https://discord.gg/tzk3xgsQ" rel="nofollow">https://discord.gg/tzk3xgsQ</a> is the link from dex screener it works.</p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22920827: https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674124</guid>
-      <pubDate>Sun, 02 Feb 2025 17:00:17 +0000</pubDate>
+      <guid isPermaLink="false">23472693: https://codeberg.org/introspector/SOLFUNMEME/issues/103#issuecomment-2814020</guid>
+      <pubDate>Wed, 12 Feb 2025 11:12:21 +0000</pubDate>
     </item>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#86</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674117</link>
-      <description>Proposed Federal DAO Model&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:56 AM]&lt;br/&gt;&#xA;as the services provided by me become more valuable, so will the token because only the top N holders have access to services at level L&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Proposed Federal DAO Model
+      <title>introspector commented on issue introspector/SOLFUNMEME#139</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/139#issuecomment-2813937</link>
+      <description>Structure of SFM&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Based on the post by Mike Dupont (&lt;br/&gt;&#xA;@introsp3ctor&lt;br/&gt;&#xA;) and the related web results, here&amp;#39;s how everything fits together in the context of the $SOLFUNMEME Zero Ontology System:&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Philosophy and Purpose: The $SOLFUNMEME Zero Ontology System focuses on enabling users to launch self-hosted agents on their own servers. This philosophy emphasizes self-dependency, security, and privacy, fitting into the broader aim of creating simpler, more manageable systems using zero-knowledge technology.&lt;br/&gt;&#xA;Zero-Knowledge Proofs (ZKP): These are crucial to the system, as highlighted in the post with the mention of &amp;#34;Zero knowledge proof layer&amp;#34; and &amp;#34;ZKML layer&amp;#34;. Zero-knowledge proofs allow proving the validity of a statement without revealing the underlying data. This is particularly useful in ensuring privacy and security, aligning with the system&amp;#39;s goal of self-hosted, secure agents. The explanations from Circularise and the USENIX paper provide practical applications in supply chain traceability and machine learning, respectively, illustrating how this technology can be integrated into complex systems for privacy-preserving computations.&lt;br/&gt;&#xA;Software Stack: The post lists numerous layers from the physical to the programming language layers, indicating a comprehensive software stack. This stack, as described in the TechTarget definition, supports the execution of applications, which in this case, would be the self-hosted agents. Each layer in the post, from the physical hardware to high-level programming languages like Python or Lisp, represents a part of this stack:&lt;br/&gt;&#xA;Physical Layer: Represents the hardware on which everything else runs.&lt;br/&gt;&#xA;Message, Meta-meme, Agent Layers: Likely involve communication protocols, conceptual frameworks, and autonomous entities (agents) respectively, which are crucial for the operation and interaction of the system.&lt;br/&gt;&#xA;LLM (Large Language Model), Docker, Systemd, Debian, Ubuntu Layers: These layers represent various software environments, from language models for AI interactions to containerization (Docker) for isolation and management, to specific OS distributions for a stable base.&lt;br/&gt;&#xA;Linux Kernel, Process, CPU, GPU Layers: These deal with the core OS functionality, process management, and hardware utilization, ensuring efficient operation.&lt;br/&gt;&#xA;Data Flow, Data Type Layers: Focus on how data moves through the system and its structure, crucial for managing ontologies.&lt;br/&gt;&#xA;Zero Knowledge Proof, ZKML Layers: Incorporate privacy-preserving technologies for data integrity and machine learning applications.&lt;br/&gt;&#xA;Higher Abstraction Layers: Including Metacoq, Unimath, Prolog, Lisp, Lambda, and others, these layers deal with mathematical and logical frameworks, programming paradigms, and high-level abstractions for complex computations and AI reasoning.&lt;br/&gt;&#xA;Application: The system aims to manage complex domain-specific ontologies within workflows, using AI/ML technology, quality systems, procedures, regulations, and auditing. This integration allows for secure, private, and efficient handling of information, leveraging each layer&amp;#39;s capabilities to ensure that the system is not only functional but also adheres to security and privacy principles.&lt;br/&gt;&#xA;Integration: By stacking these layers, the $SOLFUNMEME system creates a robust framework where each layer supports and enhances the functionality of the others. For example, zero-knowledge proofs ensure privacy at the data layer, while the OS and hardware layers provide the necessary performance and stability. High-level languages and frameworks (like Python, Lisp) allow for the development of sophisticated applications and AI models that can operate within this secure, self-hosted environment.&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;In summary, the $SOLFUNMEME Zero Ontology System is a layered, comprehensive approach that integrates zero-knowledge technology, a full software stack, and AI/ML to create a secure, private, and self-sufficient environment for hosting agents. Each layer from the post fits into this stack, contributing to the overall goal of managing complex workflows with enhanced security and privacy.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Structure of SFM
 
-<p dir="auto">James Michael DuPont, [2/2/2025 11:56 AM]<br/>
-as the services provided by me become more valuable, so will the token because only the top N holders have access to services at level L</p>
+<p dir="auto">Based on the post by Mike Dupont (<br/>
+@introsp3ctor<br/>
+) and the related web results, here&#39;s how everything fits together in the context of the $SOLFUNMEME Zero Ontology System:</p>
+<p dir="auto">Philosophy and Purpose: The $SOLFUNMEME Zero Ontology System focuses on enabling users to launch self-hosted agents on their own servers. This philosophy emphasizes self-dependency, security, and privacy, fitting into the broader aim of creating simpler, more manageable systems using zero-knowledge technology.<br/>
+Zero-Knowledge Proofs (ZKP): These are crucial to the system, as highlighted in the post with the mention of &#34;Zero knowledge proof layer&#34; and &#34;ZKML layer&#34;. Zero-knowledge proofs allow proving the validity of a statement without revealing the underlying data. This is particularly useful in ensuring privacy and security, aligning with the system&#39;s goal of self-hosted, secure agents. The explanations from Circularise and the USENIX paper provide practical applications in supply chain traceability and machine learning, respectively, illustrating how this technology can be integrated into complex systems for privacy-preserving computations.<br/>
+Software Stack: The post lists numerous layers from the physical to the programming language layers, indicating a comprehensive software stack. This stack, as described in the TechTarget definition, supports the execution of applications, which in this case, would be the self-hosted agents. Each layer in the post, from the physical hardware to high-level programming languages like Python or Lisp, represents a part of this stack:<br/>
+Physical Layer: Represents the hardware on which everything else runs.<br/>
+Message, Meta-meme, Agent Layers: Likely involve communication protocols, conceptual frameworks, and autonomous entities (agents) respectively, which are crucial for the operation and interaction of the system.<br/>
+LLM (Large Language Model), Docker, Systemd, Debian, Ubuntu Layers: These layers represent various software environments, from language models for AI interactions to containerization (Docker) for isolation and management, to specific OS distributions for a stable base.<br/>
+Linux Kernel, Process, CPU, GPU Layers: These deal with the core OS functionality, process management, and hardware utilization, ensuring efficient operation.<br/>
+Data Flow, Data Type Layers: Focus on how data moves through the system and its structure, crucial for managing ontologies.<br/>
+Zero Knowledge Proof, ZKML Layers: Incorporate privacy-preserving technologies for data integrity and machine learning applications.<br/>
+Higher Abstraction Layers: Including Metacoq, Unimath, Prolog, Lisp, Lambda, and others, these layers deal with mathematical and logical frameworks, programming paradigms, and high-level abstractions for complex computations and AI reasoning.<br/>
+Application: The system aims to manage complex domain-specific ontologies within workflows, using AI/ML technology, quality systems, procedures, regulations, and auditing. This integration allows for secure, private, and efficient handling of information, leveraging each layer&#39;s capabilities to ensure that the system is not only functional but also adheres to security and privacy principles.<br/>
+Integration: By stacking these layers, the $SOLFUNMEME system creates a robust framework where each layer supports and enhances the functionality of the others. For example, zero-knowledge proofs ensure privacy at the data layer, while the OS and hardware layers provide the necessary performance and stability. High-level languages and frameworks (like Python, Lisp) allow for the development of sophisticated applications and AI models that can operate within this secure, self-hosted environment.</p>
+<p dir="auto">In summary, the $SOLFUNMEME Zero Ontology System is a layered, comprehensive approach that integrates zero-knowledge technology, a full software stack, and AI/ML to create a secure, private, and self-sufficient environment for hosting agents. Each layer from the post fits into this stack, contributing to the overall goal of managing complex workflows with enhanced security and privacy.</p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22920655: https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674117</guid>
-      <pubDate>Sun, 02 Feb 2025 16:57:22 +0000</pubDate>
+      <guid isPermaLink="false">23471009: https://codeberg.org/introspector/SOLFUNMEME/issues/139#issuecomment-2813937</guid>
+      <pubDate>Wed, 12 Feb 2025 10:32:51 +0000</pubDate>
     </item>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#88</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674099</link>
-      <description>mobile app&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Function to connect to grok and twitter and aws  and githhub and codeberg and telegram and discord as our bot&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[mobile app
+      <title>introspector opened issue introspector/SOLFUNMEME#139</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/139</link>
+      <description>139#Structure of SFM#</description>
+      <content:encoded><![CDATA[<p dir="auto">Layers of #solfunmeme<br/>
+0. physical layer, ISO layer</p>
+<ol dir="auto">
+<li>message layer, meme layer</li>
+<li>meta-meme layer</li>
+<li>agent layer</li>
+<li>llm layer</li>
+<li>docker layer</li>
+<li>systemd layer</li>
+<li>debian gnu/linux layer</li>
+<li>ubuntu layer</li>
+<li>linux kernel layer</li>
+<li>process layer</li>
+<li>cpu layer</li>
+<li>gpu layer</li>
+<li>data flow layer</li>
+<li>data type layer</li>
+<li>zero knowledge proof layer</li>
+<li>zkml layer</li>
+<li>metacoq layer</li>
+<li>unimath layer</li>
+<li>prolog layer</li>
+<li>lisp layer</li>
+<li>lambda layer</li>
+<li>goedel number layer</li>
+<li>nodejs layer</li>
+<li>python layer</li>
+<li>gcc layer</li>
+<li>gcc ast layer</li>
+<li>introspector layer</li>
+<li>makefile layer</li>
+<li>build layer</li>
+<li>archive layer</li>
+</ol>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23470529: https://codeberg.org/introspector/SOLFUNMEME/issues/139</guid>
+      <pubDate>Wed, 12 Feb 2025 10:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#138</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/138#issuecomment-2813912</link>
+      <description>pickup hosting&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Certainly, here&amp;#39;s how you could integrate agent scoring and problem detection into the scenario:&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Agent Scoring System:&lt;br/&gt;&#xA;Score Calculation: Each agent could be given a score based on various metrics like performance history, user reviews, stability, resource efficiency, or any specific criteria relevant to your platform&amp;#39;s goals.&lt;br/&gt;&#xA;Performance Metrics: Speed, accuracy, reliability, etc.&lt;br/&gt;&#xA;Community Feedback: Ratings or reviews from users who have previously run the agent.&lt;br/&gt;&#xA;Security Audits: Regular checks for vulnerabilities or past issues.&lt;br/&gt;&#xA;Visibility: These scores would be visible to potential hosts or users considering running an agent, helping them make informed decisions.&lt;br/&gt;&#xA;Problem Detection and Reporting:&lt;br/&gt;&#xA;Automated Checks: Before an agent is run, the system could perform automatic checks for known issues, compatibility with the host&amp;#39;s setup, or against a list of blacklisted behaviors or code patterns.&lt;br/&gt;&#xA;User Reporting: Users could report issues encountered while running an agent, contributing to real-time updates of the agent&amp;#39;s score or status.&lt;br/&gt;&#xA;Flagging for Review: Agents that frequently encounter problems or fail checks could be flagged for manual review by moderators or more detailed automated analysis.&lt;br/&gt;&#xA;Decision-Making Process for Running Agents:&lt;br/&gt;&#xA;Risk Assessment: Based on the score and problem history, users can assess the risk of running a particular agent.&lt;br/&gt;&#xA;User Control: Users can set their own thresholds or preferences:&lt;br/&gt;&#xA;&amp;#34;Only run agents with a score above X&amp;#34;&lt;br/&gt;&#xA;&amp;#34;Do not run agents with more than Y reported issues in the last Z days&amp;#34;&lt;br/&gt;&#xA;Automatic Rejection: The system could automatically reject agents that do not meet certain criteria or have known significant issues.&lt;br/&gt;&#xA;Feedback Loop:&lt;br/&gt;&#xA;Updating Scores: After running an agent, users could provide feedback which would update the agent&amp;#39;s score, ensuring the system reflects current performance and reliability.&lt;br/&gt;&#xA;Learning System: Over time, the platform could learn from patterns in agent performance to better predict and warn about potential issues.&lt;br/&gt;&#xA;Security Measures:&lt;br/&gt;&#xA;Sandboxing: Run agents in isolated environments to prevent damage if an agent behaves unexpectedly.&lt;br/&gt;&#xA;Resource Limits: Cap the resources an agent can use to avoid overloading the host system.&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;By implementing these features, you enhance trust and safety within your platform, allowing users to make better decisions about which agents to host. If you need to visualize how this scoring and safety mechanism might look within your platform&amp;#39;s UI, I can generate images to illustrate these concepts.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[pickup hosting
 
-<p dir="auto">Function to connect to grok and twitter and aws  and githhub and codeberg and telegram and discord as our bot</p>
+<p dir="auto">Certainly, here&#39;s how you could integrate agent scoring and problem detection into the scenario:</p>
+<p dir="auto">Agent Scoring System:<br/>
+Score Calculation: Each agent could be given a score based on various metrics like performance history, user reviews, stability, resource efficiency, or any specific criteria relevant to your platform&#39;s goals.<br/>
+Performance Metrics: Speed, accuracy, reliability, etc.<br/>
+Community Feedback: Ratings or reviews from users who have previously run the agent.<br/>
+Security Audits: Regular checks for vulnerabilities or past issues.<br/>
+Visibility: These scores would be visible to potential hosts or users considering running an agent, helping them make informed decisions.<br/>
+Problem Detection and Reporting:<br/>
+Automated Checks: Before an agent is run, the system could perform automatic checks for known issues, compatibility with the host&#39;s setup, or against a list of blacklisted behaviors or code patterns.<br/>
+User Reporting: Users could report issues encountered while running an agent, contributing to real-time updates of the agent&#39;s score or status.<br/>
+Flagging for Review: Agents that frequently encounter problems or fail checks could be flagged for manual review by moderators or more detailed automated analysis.<br/>
+Decision-Making Process for Running Agents:<br/>
+Risk Assessment: Based on the score and problem history, users can assess the risk of running a particular agent.<br/>
+User Control: Users can set their own thresholds or preferences:<br/>
+&#34;Only run agents with a score above X&#34;<br/>
+&#34;Do not run agents with more than Y reported issues in the last Z days&#34;<br/>
+Automatic Rejection: The system could automatically reject agents that do not meet certain criteria or have known significant issues.<br/>
+Feedback Loop:<br/>
+Updating Scores: After running an agent, users could provide feedback which would update the agent&#39;s score, ensuring the system reflects current performance and reliability.<br/>
+Learning System: Over time, the platform could learn from patterns in agent performance to better predict and warn about potential issues.<br/>
+Security Measures:<br/>
+Sandboxing: Run agents in isolated environments to prevent damage if an agent behaves unexpectedly.<br/>
+Resource Limits: Cap the resources an agent can use to avoid overloading the host system.</p>
+<p dir="auto">By implementing these features, you enhance trust and safety within your platform, allowing users to make better decisions about which agents to host. If you need to visualize how this scoring and safety mechanism might look within your platform&#39;s UI, I can generate images to illustrate these concepts.</p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22920498: https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674099</guid>
-      <pubDate>Sun, 02 Feb 2025 16:49:12 +0000</pubDate>
+      <guid isPermaLink="false">23470393: https://codeberg.org/introspector/SOLFUNMEME/issues/138#issuecomment-2813912</guid>
+      <pubDate>Wed, 12 Feb 2025 10:18:19 +0000</pubDate>
     </item>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#88</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674085</link>
-      <description>mobile app&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;One function is to change the size of the asg from 0 to 1 and back&lt;br/&gt;&#xA;&lt;a href=&#34;https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html&#34; rel=&#34;nofollow&#34;&gt;https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;docker-agent-ami-t4g.small&lt;br/&gt;&#xA;docker-agent-ami-t4g.small Capacity overview&lt;br/&gt;&#xA;Edit&lt;br/&gt;&#xA;arn:aws:autoscaling:us-west-1:767503528736:autoScalingGroup:02588866-8fd4-45a9-b0ff-18416602f0a8:autoScalingGroupName/docker-agent-ami-t4g.small&lt;br/&gt;&#xA;Desired capacity&lt;br/&gt;&#xA;1&lt;br/&gt;&#xA;Scaling limits (Min - Max)&lt;br/&gt;&#xA;1 - 2&lt;br/&gt;&#xA;Desired capacity type&lt;br/&gt;&#xA;Units (number of instances)&lt;br/&gt;&#xA;Status&lt;br/&gt;&#xA;Updating capacity&lt;br/&gt;&#xA;Date created&lt;br/&gt;&#xA;Sun Feb 02 2025 08:20:18 GMT-0500 (Eastern Standard Time)&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Here is a schedule:&lt;br/&gt;&#xA;&lt;a href=&#34;https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a&#34; rel=&#34;nofollow&#34;&gt;https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;alarms&lt;br/&gt;&#xA;&lt;a href=&#34;https://github.com/aws-samples/cloudwatch-alarm-management-for-asg&#34; rel=&#34;nofollow&#34;&gt;https://github.com/aws-samples/cloudwatch-alarm-management-for-asg&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Rolling update handlers:&lt;br/&gt;&#xA;&lt;a href=&#34;https://github.com/TwiN/aws-eks-asg-rolling-update-handler&#34; rel=&#34;nofollow&#34;&gt;https://github.com/TwiN/aws-eks-asg-rolling-update-handler&lt;/a&gt;&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[mobile app
+      <title>introspector commented on issue introspector/SOLFUNMEME#138</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/138#issuecomment-2813899</link>
+      <description>pickup hosting&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;grok&lt;br/&gt;&#xA;Here&amp;#39;s how the scenario you&amp;#39;ve outlined might unfold:&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Single Sign-On (SSO) with Wallet Connection:&lt;br/&gt;&#xA;Users would sign up or log in to your platform using a single sign-on method, connecting their cryptocurrency or blockchain wallet. This wallet connection would serve as both authentication and a method to verify they have the necessary funds or assets.&lt;br/&gt;&#xA;Verification of Funds:&lt;br/&gt;&#xA;Once connected, the system would check if the user has enough funds or the right type of assets (like tokens or NFTs) necessary for the next steps.&lt;br/&gt;&#xA;Choosing Storage Type:&lt;br/&gt;&#xA;Users could decide whether they want their task data stored in private or public storage.&lt;br/&gt;&#xA;Private Storage: Only accessible by the user or by specific permissions they grant. This would ensure data privacy for sensitive tasks.&lt;br/&gt;&#xA;Public Storage: Data could be openly accessible, useful for tasks that aim to gather community input or where transparency is beneficial.&lt;br/&gt;&#xA;Task Creation and Resource Offer:&lt;br/&gt;&#xA;Users would create a task or request:&lt;br/&gt;&#xA;They could specify how much they&amp;#39;re willing to pay or what resources they&amp;#39;re offering for the completion of the task.&lt;br/&gt;&#xA;Alternatively, if they&amp;#39;ve already staked resources in your ecosystem (proof of stake), they could leverage this for priority or additional benefits.&lt;br/&gt;&#xA;Signing the Request:&lt;br/&gt;&#xA;Users would digitally sign their request or task, committing the terms of what they&amp;#39;re offering or promising in exchange for service. This could involve smart contracts on a blockchain to automate and secure transactions.&lt;br/&gt;&#xA;Hosting and Service Provision:&lt;br/&gt;&#xA;Other providers or participants in your network would see these tasks or requests:&lt;br/&gt;&#xA;They could review the attributes of each request (like required resources, privacy settings, payment terms).&lt;br/&gt;&#xA;Providers would then have the option to take up these tasks, providing hosting or other services in exchange for the offered payment or resources.&lt;br/&gt;&#xA;Resource Claiming:&lt;br/&gt;&#xA;Once a provider decides to host an agent or fulfill a task, they would claim the resources or payment automatically through the system, possibly via smart contract execution ensuring both parties adhere to the agreed terms.&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;This setup leverages blockchain technology for security, transparency, and automation, potentially reducing trust issues and transaction costs. Key considerations would include:&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Security: Ensuring wallet connections and data storage are secure against hacks.&lt;br/&gt;&#xA;User Interface: Making the process user-friendly despite the complexity of blockchain interactions.&lt;br/&gt;&#xA;Scalability: Handling potentially thousands of users and transactions smoothly.&lt;br/&gt;&#xA;Regulation Compliance: Ensuring all activities comply with relevant laws, especially those concerning digital currencies and data privacy.&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;If you need further details on any part of this process or wish to explore how to implement specific features, feel free to ask. Also, if you need to generate images to visualize this process, let me know.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[pickup hosting
 
-<p dir="auto">One function is to change the size of the asg from 0 to 1 and back<br/>
-<a href="https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html" rel="nofollow">https://docs.aws.amazon.com/code-library/latest/ug/auto-scaling_example_auto-scaling_SetDesiredCapacity_section.html</a></p>
-<p dir="auto">docker-agent-ami-t4g.small<br/>
-docker-agent-ami-t4g.small Capacity overview<br/>
-Edit<br/>
-arn:aws:autoscaling:us-west-1:767503528736:autoScalingGroup:02588866-8fd4-45a9-b0ff-18416602f0a8:autoScalingGroupName/docker-agent-ami-t4g.small<br/>
-Desired capacity<br/>
-1<br/>
-Scaling limits (Min - Max)<br/>
-1 - 2<br/>
-Desired capacity type<br/>
-Units (number of instances)<br/>
-Status<br/>
-Updating capacity<br/>
-Date created<br/>
-Sun Feb 02 2025 08:20:18 GMT-0500 (Eastern Standard Time)</p>
-<p dir="auto">Here is a schedule:<br/>
-<a href="https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a" rel="nofollow">https://gist.github.com/veuncent/3e8ea08b0b593620451e887daef1595a</a></p>
-<p dir="auto">alarms<br/>
-<a href="https://github.com/aws-samples/cloudwatch-alarm-management-for-asg" rel="nofollow">https://github.com/aws-samples/cloudwatch-alarm-management-for-asg</a></p>
-<p dir="auto">Rolling update handlers:<br/>
-<a href="https://github.com/TwiN/aws-eks-asg-rolling-update-handler" rel="nofollow">https://github.com/TwiN/aws-eks-asg-rolling-update-handler</a></p>
+<p dir="auto">grok<br/>
+Here&#39;s how the scenario you&#39;ve outlined might unfold:</p>
+<p dir="auto">Single Sign-On (SSO) with Wallet Connection:<br/>
+Users would sign up or log in to your platform using a single sign-on method, connecting their cryptocurrency or blockchain wallet. This wallet connection would serve as both authentication and a method to verify they have the necessary funds or assets.<br/>
+Verification of Funds:<br/>
+Once connected, the system would check if the user has enough funds or the right type of assets (like tokens or NFTs) necessary for the next steps.<br/>
+Choosing Storage Type:<br/>
+Users could decide whether they want their task data stored in private or public storage.<br/>
+Private Storage: Only accessible by the user or by specific permissions they grant. This would ensure data privacy for sensitive tasks.<br/>
+Public Storage: Data could be openly accessible, useful for tasks that aim to gather community input or where transparency is beneficial.<br/>
+Task Creation and Resource Offer:<br/>
+Users would create a task or request:<br/>
+They could specify how much they&#39;re willing to pay or what resources they&#39;re offering for the completion of the task.<br/>
+Alternatively, if they&#39;ve already staked resources in your ecosystem (proof of stake), they could leverage this for priority or additional benefits.<br/>
+Signing the Request:<br/>
+Users would digitally sign their request or task, committing the terms of what they&#39;re offering or promising in exchange for service. This could involve smart contracts on a blockchain to automate and secure transactions.<br/>
+Hosting and Service Provision:<br/>
+Other providers or participants in your network would see these tasks or requests:<br/>
+They could review the attributes of each request (like required resources, privacy settings, payment terms).<br/>
+Providers would then have the option to take up these tasks, providing hosting or other services in exchange for the offered payment or resources.<br/>
+Resource Claiming:<br/>
+Once a provider decides to host an agent or fulfill a task, they would claim the resources or payment automatically through the system, possibly via smart contract execution ensuring both parties adhere to the agreed terms.</p>
+<p dir="auto">This setup leverages blockchain technology for security, transparency, and automation, potentially reducing trust issues and transaction costs. Key considerations would include:</p>
+<p dir="auto">Security: Ensuring wallet connections and data storage are secure against hacks.<br/>
+User Interface: Making the process user-friendly despite the complexity of blockchain interactions.<br/>
+Scalability: Handling potentially thousands of users and transactions smoothly.<br/>
+Regulation Compliance: Ensuring all activities comply with relevant laws, especially those concerning digital currencies and data privacy.</p>
+<p dir="auto">If you need further details on any part of this process or wish to explore how to implement specific features, feel free to ask. Also, if you need to generate images to visualize this process, let me know.</p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22920255: https://codeberg.org/introspector/SOLFUNMEME/issues/88#issuecomment-2674085</guid>
-      <pubDate>Sun, 02 Feb 2025 16:43:01 +0000</pubDate>
+      <guid isPermaLink="false">23470273: https://codeberg.org/introspector/SOLFUNMEME/issues/138#issuecomment-2813899</guid>
+      <pubDate>Wed, 12 Feb 2025 10:16:34 +0000</pubDate>
     </item>
     <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#86</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674072</link>
-      <description>Proposed Federal DAO Model&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:32 AM]&lt;br/&gt;&#xA;The plan for token utility is to have it as a gated utility and governance token, right now my proposal is here &lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/86&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#86&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;and more&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;all proposals&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;right now we are building the dao&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;with our token you will be able to vote and influence&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;you can ask questions there&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;we will make it easier and easier to use&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:33 AM]&lt;br/&gt;&#xA;with our agent&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:34 AM]&lt;br/&gt;&#xA;it will come to telegram and replace all these bots&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:34 AM]&lt;br/&gt;&#xA;and verify everyone&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;James Michael DuPont, [2/2/2025 11:34 AM]&lt;br/&gt;&#xA;and bounce non holders out&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Proposed Federal DAO Model
+      <title>introspector opened issue introspector/SOLFUNMEME#138</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/138</link>
+      <description>138#pickup hosting#</description>
+      <content:encoded><![CDATA[<p dir="auto">Let&#39;s imagine a scenario a user would sign up to our site using single sign on they would connect their wallet they would show that they have funds they would then choose to create a private or public storage for their for their task and then they could sign a request saying that they&#39;re willing to pay this much money or offer these resources or they have already have a proof of stake in the system and they would like to have hosting for their agent and then other providers could choose to pick up on that and based on its attributes host the agent and claim the resources</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23470259: https://codeberg.org/introspector/SOLFUNMEME/issues/138</guid>
+      <pubDate>Wed, 12 Feb 2025 10:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#137</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/137#issuecomment-2813813</link>
+      <description>Gitbook&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;see &lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/85&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#85&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Gitbook
 
-<p dir="auto">James Michael DuPont, [2/2/2025 11:32 AM]<br/>
-The plan for token utility is to have it as a gated utility and governance token, right now my proposal is here <a href="https://codeberg.org/introspector/SOLFUNMEME/issues/86" class="ref-issue" rel="nofollow">#86</a></p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-and more</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-all proposals</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-right now we are building the dao</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-with our token you will be able to vote and influence</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-you can ask questions there</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-we will make it easier and easier to use</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:33 AM]<br/>
-with our agent</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:34 AM]<br/>
-it will come to telegram and replace all these bots</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:34 AM]<br/>
-and verify everyone</p>
-<p dir="auto">James Michael DuPont, [2/2/2025 11:34 AM]<br/>
-and bounce non holders out</p>
+<p dir="auto">see <a href="https://codeberg.org/introspector/SOLFUNMEME/issues/85" class="ref-issue" rel="nofollow">#85</a></p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22918623: https://codeberg.org/introspector/SOLFUNMEME/issues/86#issuecomment-2674072</guid>
-      <pubDate>Sun, 02 Feb 2025 16:34:47 +0000</pubDate>
+      <guid isPermaLink="false">23468972: https://codeberg.org/introspector/SOLFUNMEME/issues/137#issuecomment-2813813</guid>
+      <pubDate>Wed, 12 Feb 2025 09:51:36 +0000</pubDate>
     </item>
     <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#99</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/99</link>
-      <description>99#create an interface between AWS Q and the ai api interface#</description>
-      <content:encoded><![CDATA[<p dir="auto">We want to create a link between eliza and q so we can have it help diagnose itself.</p>
-<p dir="auto">I asked aws q iteself :<br/>
-To create an interface between Amazon Q and the AI API interface using AWS PrivateLink, you&#39;ll need to set up an interface VPC endpoint. This allows for secure, private communication between your VPC and Amazon Q without traffic traversing the public internet. Here&#39;s a step-by-step guide to accomplish this task:</p>
+      <title>introspector opened issue introspector/SOLFUNMEME#137</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/137</link>
+      <description>137#Gitbook#</description>
+      <content:encoded><![CDATA[<p dir="auto">attach gitbook here</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23468926: https://codeberg.org/introspector/SOLFUNMEME/issues/137</guid>
+      <pubDate>Wed, 12 Feb 2025 09:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#136</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/136</link>
+      <description>136#Whitepaper#</description>
+      <content:encoded><![CDATA[<p dir="auto">insert nice whitepaper here</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23468912: https://codeberg.org/introspector/SOLFUNMEME/issues/136</guid>
+      <pubDate>Wed, 12 Feb 2025 09:49:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#16</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/16#issuecomment-2813281</link>
+      <description>Lore: meta meme coin v2&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;#SOLFUNMEME, here is what sfm is. tine the introspector is not eliza one click installer (&lt;a href=&#34;https://github.com/jmikedupont2/ai-agent-terraform/pull/34&#34; rel=&#34;nofollow&#34;&gt;https://github.com/jmikedupont2/ai-agent-terraform/pull/34&lt;/a&gt;) aims to be the agent for sfm and zos that will implement sfm and zos. . Sfm is derived from zos  (&lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/src/branch/main/creation.md&#34; rel=&#34;nofollow&#34;&gt;https://codeberg.org/introspector/SOLFUNMEME/src/branch/main/creation.md&lt;/a&gt;), which is inspired by mina (&lt;a href=&#34;https://minaprotocol.com/&#34; rel=&#34;nofollow&#34;&gt;https://minaprotocol.com/&lt;/a&gt;) meeting metameme coin (&lt;a href=&#34;https://github.com/meta-introspector/meta-meme/issues/160&#34; rel=&#34;nofollow&#34;&gt;https://github.com/meta-introspector/meta-meme/issues/160&lt;/a&gt;) and me creating a succinct version which is the zos (&lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/9&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#9&lt;/a&gt; see ideas here for zero ontology type system ) . which is derived from unimath (&lt;a href=&#34;https://github.com/meta-introspector/unimath-comic&#34; rel=&#34;nofollow&#34;&gt;https://github.com/meta-introspector/unimath-comic&lt;/a&gt;) which is related to metacoq(&lt;a href=&#34;https://github.com/meta-introspector/th-desugar/tree/rename/Server/MetaCoq&#34; rel=&#34;nofollow&#34;&gt;https://github.com/meta-introspector/th-desugar/tree/rename/Server/MetaCoq&lt;/a&gt;) via lang agent lang model (&lt;a href=&#34;https://github.com/meta-introspector/lang_agent/blob/main/lib/lang_model.v&#34; rel=&#34;nofollow&#34;&gt;https://github.com/meta-introspector/lang_agent/blob/main/lib/lang_model.v&lt;/a&gt;) which was created after ai ticket &lt;a href=&#34;https://github.com/jmikedupont2/ai-ticket/&#34; rel=&#34;nofollow&#34;&gt;https://github.com/jmikedupont2/ai-ticket/&lt;/a&gt;. There are more projects in the mix. The basic idea is that we have a collection of programs the work around the meta meme as a living number, a sort of turing tape or emoji string or tensor that can describe and modify itself, like the linux system and gcc compiler and the emacs system these are viral meme systems like Dawkins described, we can show they are all equivalent with unimath.&lt;br/&gt;&#xA;14 posts&lt;br/&gt;&#xA;15 web pages&lt;br/&gt;&#xA;Here&amp;#39;s a breakdown of the concepts and projects you&amp;#39;ve mentioned related to $SOLFUNMEME (SFM) and Zero Ontology System (ZOS):&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;$SOLFUNMEME (SFM):&lt;br/&gt;&#xA;Origin: SFM is a derivative of ZOS (Zero Ontology System). The ZOS project is described in its creation document on Codeberg, which outlines its conceptual foundation.&lt;br/&gt;&#xA;Philosophy: SFM embodies the idea of a &amp;#34;meta-meme&amp;#34; where digital constructs like memes can evolve, self-modify, or self-describe, akin to biological memes as described by Richard Dawkins. This involves treating memes as dynamic entities or code that can evolve or adapt, similar to how software evolves.&lt;br/&gt;&#xA;Zero Ontology System (ZOS):&lt;br/&gt;&#xA;Inspiration: ZOS is inspired by several projects:&lt;br/&gt;&#xA;Mina Protocol: Aims at creating succinct blockchain proofs, which resonates with the idea of ZOS being a succinct zero ontology type system.&lt;br/&gt;&#xA;Meta-Meme Coin: Introduces the concept of memes as programmable, self-evolving entities within blockchain or computational frameworks.&lt;br/&gt;&#xA;Implementation:&lt;br/&gt;&#xA;ai-agent-terraform: Specifically, the pull request &lt;a href=&#34;/introspector/SOLFUNMEME/issues/34&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#34&lt;/a&gt; seems to involve setting up an agent for SFM and ZOS, possibly automating deployment or management tasks.&lt;br/&gt;&#xA;Unimath: Links to the idea of universal mathematics, suggesting a framework where all these systems might be proven or shown to be equivalent in some mathematical or computational sense.&lt;br/&gt;&#xA;MetaCoq: Indicates work in Coq, a proof assistant, relating to type theory and formal verification, which might be part of ensuring the consistency or correctness of the ZOS system.&lt;br/&gt;&#xA;Other Related Projects:&lt;br/&gt;&#xA;Lang Agent: Involves language models or agents that might interact with or within the ZOS environment, potentially for tasks like reasoning or code generation.&lt;br/&gt;&#xA;AI Ticket: Could be related to managing tasks or workflows in AI development or deployment, possibly used in the broader ecosystem of SFM and ZOS for managing agent tasks or development issues.&lt;br/&gt;&#xA;Core Concepts:&lt;br/&gt;&#xA;Self-Modifying Code: Similar to how Linux, GCC, and Emacs can be seen as viral in software culture, SFM and ZOS aim to make digital memes or entities that can self-modify or evolve, using concepts from AI, blockchain, and programming language theory.&lt;br/&gt;&#xA;Technical Implementation:&lt;br/&gt;&#xA;The projects involve a mix of GitHub repositories and Codeberg, suggesting a decentralized approach to development where different parts of the system or its ideas are spread across multiple platforms, possibly for broader collaboration or to align with different aspects of their philosophical or technical approach.&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;This overview shows a complex interplay of ideas from AI, blockchain, formal verification, and meme theory, aiming to create a system where digital entities can evolve in a way that mirrors biological evolution or computational self-modification. However, without deeper context, the exact practical applications or current status of these projects remain speculative. If you need further clarification or details on any specific aspect, please let me know.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Lore: meta meme coin v2
+
+<p dir="auto">#SOLFUNMEME, here is what sfm is. tine the introspector is not eliza one click installer (<a href="https://github.com/jmikedupont2/ai-agent-terraform/pull/34" rel="nofollow">https://github.com/jmikedupont2/ai-agent-terraform/pull/34</a>) aims to be the agent for sfm and zos that will implement sfm and zos. . Sfm is derived from zos  (<a href="https://codeberg.org/introspector/SOLFUNMEME/src/branch/main/creation.md" rel="nofollow">https://codeberg.org/introspector/SOLFUNMEME/src/branch/main/creation.md</a>), which is inspired by mina (<a href="https://minaprotocol.com/" rel="nofollow">https://minaprotocol.com/</a>) meeting metameme coin (<a href="https://github.com/meta-introspector/meta-meme/issues/160" rel="nofollow">https://github.com/meta-introspector/meta-meme/issues/160</a>) and me creating a succinct version which is the zos (<a href="https://codeberg.org/introspector/SOLFUNMEME/issues/9" class="ref-issue" rel="nofollow">#9</a> see ideas here for zero ontology type system ) . which is derived from unimath (<a href="https://github.com/meta-introspector/unimath-comic" rel="nofollow">https://github.com/meta-introspector/unimath-comic</a>) which is related to metacoq(<a href="https://github.com/meta-introspector/th-desugar/tree/rename/Server/MetaCoq" rel="nofollow">https://github.com/meta-introspector/th-desugar/tree/rename/Server/MetaCoq</a>) via lang agent lang model (<a href="https://github.com/meta-introspector/lang_agent/blob/main/lib/lang_model.v" rel="nofollow">https://github.com/meta-introspector/lang_agent/blob/main/lib/lang_model.v</a>) which was created after ai ticket <a href="https://github.com/jmikedupont2/ai-ticket/" rel="nofollow">https://github.com/jmikedupont2/ai-ticket/</a>. There are more projects in the mix. The basic idea is that we have a collection of programs the work around the meta meme as a living number, a sort of turing tape or emoji string or tensor that can describe and modify itself, like the linux system and gcc compiler and the emacs system these are viral meme systems like Dawkins described, we can show they are all equivalent with unimath.<br/>
+14 posts<br/>
+15 web pages<br/>
+Here&#39;s a breakdown of the concepts and projects you&#39;ve mentioned related to $SOLFUNMEME (SFM) and Zero Ontology System (ZOS):</p>
+<p dir="auto">$SOLFUNMEME (SFM):<br/>
+Origin: SFM is a derivative of ZOS (Zero Ontology System). The ZOS project is described in its creation document on Codeberg, which outlines its conceptual foundation.<br/>
+Philosophy: SFM embodies the idea of a &#34;meta-meme&#34; where digital constructs like memes can evolve, self-modify, or self-describe, akin to biological memes as described by Richard Dawkins. This involves treating memes as dynamic entities or code that can evolve or adapt, similar to how software evolves.<br/>
+Zero Ontology System (ZOS):<br/>
+Inspiration: ZOS is inspired by several projects:<br/>
+Mina Protocol: Aims at creating succinct blockchain proofs, which resonates with the idea of ZOS being a succinct zero ontology type system.<br/>
+Meta-Meme Coin: Introduces the concept of memes as programmable, self-evolving entities within blockchain or computational frameworks.<br/>
+Implementation:<br/>
+ai-agent-terraform: Specifically, the pull request <a href="/introspector/SOLFUNMEME/issues/34" class="ref-issue" rel="nofollow">#34</a> seems to involve setting up an agent for SFM and ZOS, possibly automating deployment or management tasks.<br/>
+Unimath: Links to the idea of universal mathematics, suggesting a framework where all these systems might be proven or shown to be equivalent in some mathematical or computational sense.<br/>
+MetaCoq: Indicates work in Coq, a proof assistant, relating to type theory and formal verification, which might be part of ensuring the consistency or correctness of the ZOS system.<br/>
+Other Related Projects:<br/>
+Lang Agent: Involves language models or agents that might interact with or within the ZOS environment, potentially for tasks like reasoning or code generation.<br/>
+AI Ticket: Could be related to managing tasks or workflows in AI development or deployment, possibly used in the broader ecosystem of SFM and ZOS for managing agent tasks or development issues.<br/>
+Core Concepts:<br/>
+Self-Modifying Code: Similar to how Linux, GCC, and Emacs can be seen as viral in software culture, SFM and ZOS aim to make digital memes or entities that can self-modify or evolve, using concepts from AI, blockchain, and programming language theory.<br/>
+Technical Implementation:<br/>
+The projects involve a mix of GitHub repositories and Codeberg, suggesting a decentralized approach to development where different parts of the system or its ideas are spread across multiple platforms, possibly for broader collaboration or to align with different aspects of their philosophical or technical approach.</p>
+<p dir="auto">This overview shows a complex interplay of ideas from AI, blockchain, formal verification, and meme theory, aiming to create a system where digital entities can evolve in a way that mirrors biological evolution or computational self-modification. However, without deeper context, the exact practical applications or current status of these projects remain speculative. If you need further clarification or details on any specific aspect, please let me know.</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23452962: https://codeberg.org/introspector/SOLFUNMEME/issues/16#issuecomment-2813281</guid>
+      <pubDate>Wed, 12 Feb 2025 00:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#132</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812779</link>
+      <description>applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://x.com/introsp3ctor/status/1889412796565299531&#34; rel=&#34;nofollow&#34;&gt;https://x.com/introsp3ctor/status/1889412796565299531&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64
+
+<p dir="auto"><a href="https://x.com/introsp3ctor/status/1889412796565299531" rel="nofollow">https://x.com/introsp3ctor/status/1889412796565299531</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23445334: https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812779</guid>
+      <pubDate>Tue, 11 Feb 2025 20:35:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#132</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812777</link>
+      <description>applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://github.com/meta-introspector/terraform-aws-github-runners/commit/d60003851833760337b2bd4a1651c32cb827681f&#34; rel=&#34;nofollow&#34;&gt;&lt;code&gt;d600038518&lt;/code&gt;&lt;/a&gt; code here&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64
+
+<p dir="auto"><a href="https://github.com/meta-introspector/terraform-aws-github-runners/commit/d60003851833760337b2bd4a1651c32cb827681f" rel="nofollow"><code>d600038518</code></a> code here</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23444291: https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812777</guid>
+      <pubDate>Tue, 11 Feb 2025 20:33:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#132</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812760</link>
+      <description>applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;build working at least it is getting a real error now,&lt;/p&gt;&#xA;&lt;pre class=&#34;code-block&#34;&gt;&lt;code class=&#34;chroma language-text display&#34;&gt;&#xA;#14 [builder 6/7] RUN pnpm install --no-frozen-lockfile&#xA;#14 0.904 ·WARN· Unsupported engine: wanted: {&amp;#34;node&amp;#34;:&amp;#34;23.3.0&amp;#34;} (current: {&amp;#34;node&amp;#34;:&amp;#34;v23.6.0&amp;#34;,&amp;#34;pnpm&amp;#34;:&amp;#34;9.15.4&amp;#34;})&#xA;#14 0.905 docs                                     | ·WARN· Unsupported engine: wanted: {&amp;#34;node&amp;#34;:&amp;#34;23.3.0&amp;#34;} (current: {&amp;#34;node&amp;#34;:&amp;#34;v23.6.0&amp;#34;,&amp;#34;pnpm&amp;#34;:&amp;#34;9.15.4&amp;#34;})&#xA;#14 0.926 Scope: all 9 workspace projects&#xA;#14 1.104 /app/agent:&#xA;#14 1.104 ·ERR_PNPM_WORKSPACE_PKG_NOT_FOUND· In agent: &amp;#34;@elizaos/client-discord@workspace:*&amp;#34; is in the dependencies but no package named &amp;#34;@elizaos/client-discord&amp;#34; is present in the workspace&#xA;#14 1.104 &#xA;#14 1.104 This error happened while installing a direct dependency of /app/agent&#xA;#14 1.104 &#xA;#14 1.104 Packages found in the workspace: &#xA;#14 ERROR: process &amp;#34;/bin/sh -c pnpm install --no-frozen-lockfile&amp;#34; did not complete successfully: exit code: 1&#xA;------&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p dir=&#34;auto&#34;&gt;now to fix in the code, so this is working, the github is not triggering yet but we will fix that later&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64
+
+<p dir="auto">build working at least it is getting a real error now,</p>
+<pre class="code-block"><code class="chroma language-text display">
+#14 [builder 6/7] RUN pnpm install --no-frozen-lockfile
+#14 0.904 ·WARN· Unsupported engine: wanted: {&#34;node&#34;:&#34;23.3.0&#34;} (current: {&#34;node&#34;:&#34;v23.6.0&#34;,&#34;pnpm&#34;:&#34;9.15.4&#34;})
+#14 0.905 docs                                     | ·WARN· Unsupported engine: wanted: {&#34;node&#34;:&#34;23.3.0&#34;} (current: {&#34;node&#34;:&#34;v23.6.0&#34;,&#34;pnpm&#34;:&#34;9.15.4&#34;})
+#14 0.926 Scope: all 9 workspace projects
+#14 1.104 /app/agent:
+#14 1.104 ·ERR_PNPM_WORKSPACE_PKG_NOT_FOUND· In agent: &#34;@elizaos/client-discord@workspace:*&#34; is in the dependencies but no package named &#34;@elizaos/client-discord&#34; is present in the workspace
+#14 1.104 
+#14 1.104 This error happened while installing a direct dependency of /app/agent
+#14 1.104 
+#14 1.104 Packages found in the workspace: 
+#14 ERROR: process &#34;/bin/sh -c pnpm install --no-frozen-lockfile&#34; did not complete successfully: exit code: 1
+------
+</code></pre><p dir="auto">now to fix in the code, so this is working, the github is not triggering yet but we will fix that later</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23444013: https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812760</guid>
+      <pubDate>Tue, 11 Feb 2025 20:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#132</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812738</link>
+      <description>applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64&#xA;&#xA;&lt;pre class=&#34;code-block&#34;&gt;&lt;code&gt;&#x9;&amp;#34;Version&amp;#34;: &amp;#34;2012-10-17&amp;#34;,&#xA;&#x9;&amp;#34;Statement&amp;#34;: [&#xA;&#x9;&#x9;{&#xA;&#x9;&#x9;&#x9;&amp;#34;Sid&amp;#34;: &amp;#34;VisualEditor0&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Effect&amp;#34;: &amp;#34;Allow&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Action&amp;#34;: &amp;#34;ecr:GetAuthorizationToken&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Resource&amp;#34;: &amp;#34;*&amp;#34;&#xA;&#x9;&#x9;}&#xA;&#x9;]&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <content:encoded><![CDATA[applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64
+
+<pre class="code-block"><code>	&#34;Version&#34;: &#34;2012-10-17&#34;,
+	&#34;Statement&#34;: [
+		{
+			&#34;Sid&#34;: &#34;VisualEditor0&#34;,
+			&#34;Effect&#34;: &#34;Allow&#34;,
+			&#34;Action&#34;: &#34;ecr:GetAuthorizationToken&#34;,
+			&#34;Resource&#34;: &#34;*&#34;
+		}
+	]
+}
+</code></pre>]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23443408: https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812738</guid>
+      <pubDate>Tue, 11 Feb 2025 20:06:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#132</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812733</link>
+      <description>applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;code&gt;An error occurred (AccessDeniedException) when calling the GetAuthorizationToken operation: User: arn:aws:sts::767503528736:assumed-role/github-runner-codebuild-eliza-build/AWSCodeBuild-bcb3978d-ecba-45a8-a7a8-f24dafc40443 is not authorized to perform: ecr:GetAuthorizationToken on resource: * because no identity-based policy allows the ecr:GetAuthorizationToken action&lt;/code&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64
+
+<p dir="auto"><code>An error occurred (AccessDeniedException) when calling the GetAuthorizationToken operation: User: arn:aws:sts::767503528736:assumed-role/github-runner-codebuild-eliza-build/AWSCodeBuild-bcb3978d-ecba-45a8-a7a8-f24dafc40443 is not authorized to perform: ecr:GetAuthorizationToken on resource: * because no identity-based policy allows the ecr:GetAuthorizationToken action</code></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23443257: https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812733</guid>
+      <pubDate>Tue, 11 Feb 2025 20:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#123</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/123#issuecomment-2812686</link>
+      <description>Descriptions of the SOLFUNMEME logo&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;Here’s a shortened description of the SOLFUNMEME logo:&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;The logo features a central, glowing eye with a black pupil, surrounded by vibrant concentric rings of blue, green, and yellow, resembling a mechanical pattern. Red, petal-like structures encircle the eye, detailed with lace-like fractals. Tentacle-like forms, in cream with glowing white spheres at the ends, spiral outward. The background transitions from deep blue and green to warm gold, with abstract geometric shapes. Above the eye, a small yellow cross or star adds a mystical touch. The glowing effect from the eye and tentacles enhances the surreal, psychedelic design. The color palette is bold, with reds, blues, greens, and creamy whites. The overall feel is organic yet futuristic.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Descriptions of the SOLFUNMEME logo
+
+<p dir="auto">Here’s a shortened description of the SOLFUNMEME logo:</p>
+<p dir="auto">The logo features a central, glowing eye with a black pupil, surrounded by vibrant concentric rings of blue, green, and yellow, resembling a mechanical pattern. Red, petal-like structures encircle the eye, detailed with lace-like fractals. Tentacle-like forms, in cream with glowing white spheres at the ends, spiral outward. The background transitions from deep blue and green to warm gold, with abstract geometric shapes. Above the eye, a small yellow cross or star adds a mystical touch. The glowing effect from the eye and tentacles enhances the surreal, psychedelic design. The color palette is bold, with reds, blues, greens, and creamy whites. The overall feel is organic yet futuristic.</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23442365: https://codeberg.org/introspector/SOLFUNMEME/issues/123#issuecomment-2812686</guid>
+      <pubDate>Tue, 11 Feb 2025 19:48:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#130</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/130#issuecomment-2812586</link>
+      <description>More packages to test&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;testing&lt;/p&gt;&#xA;&lt;pre class=&#34;code-block&#34;&gt;&lt;code class=&#34;chroma language-text display&#34;&gt;        ~ image                       = &amp;#34;aws/codebuild/amazonlinux2-x86_64-standard:5.0&amp;#34; -&amp;gt; &amp;#34;public.ecr.aws/moia-oss/codebuild-ubuntu:jammy&amp;#34;&#xA;          ~ image_pull_credentials_type = &amp;#34;CODEBUILD&amp;#34; -&amp;gt; &amp;#34;SERVICE_ROLE&amp;#34;&#xA;          ~ type                        = &amp;#34;LINUX_CONTAINER&amp;#34; -&amp;gt; &amp;#34;ARM_CONTAINER&amp;#34;&#xA;            # (3 unchanged attributes hidden)&#xA;        }&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <content:encoded><![CDATA[More packages to test
+
+<p dir="auto">testing</p>
+<pre class="code-block"><code class="chroma language-text display">        ~ image                       = &#34;aws/codebuild/amazonlinux2-x86_64-standard:5.0&#34; -&gt; &#34;public.ecr.aws/moia-oss/codebuild-ubuntu:jammy&#34;
+          ~ image_pull_credentials_type = &#34;CODEBUILD&#34; -&gt; &#34;SERVICE_ROLE&#34;
+          ~ type                        = &#34;LINUX_CONTAINER&#34; -&gt; &#34;ARM_CONTAINER&#34;
+            # (3 unchanged attributes hidden)
+        }
+</code></pre>]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23437978: https://codeberg.org/introspector/SOLFUNMEME/issues/130#issuecomment-2812586</guid>
+      <pubDate>Tue, 11 Feb 2025 18:57:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#94</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/94#issuecomment-2812584</link>
+      <description>Terraformer&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;I used this&lt;/p&gt;&#xA;&lt;pre class=&#34;code-block&#34;&gt;&lt;code class=&#34;chroma language-text display&#34;&gt;provider &amp;#34;aws&amp;#34; {&#xA;  region  = &amp;#34;us-east-2&amp;#34;&#xA;#  profile = &amp;#34;default&amp;#34;&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p dir=&#34;auto&#34;&gt;terraform init&lt;br/&gt;&#xA;&lt;code&gt;./terraformer  import   aws --resources codebuild&lt;/code&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Terraformer
+
+<p dir="auto">I used this</p>
+<pre class="code-block"><code class="chroma language-text display">provider &#34;aws&#34; {
+  region  = &#34;us-east-2&#34;
+#  profile = &#34;default&#34;
+}
+</code></pre><p dir="auto">terraform init<br/>
+<code>./terraformer  import   aws --resources codebuild</code></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23437950: https://codeberg.org/introspector/SOLFUNMEME/issues/94#issuecomment-2812584</guid>
+      <pubDate>Tue, 11 Feb 2025 18:55:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#132</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812370</link>
+      <description>applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64&#xA;&#xA;&lt;pre class=&#34;code-block&#34;&gt;&lt;code class=&#34;chroma language-text display&#34;&gt;module.github_runner.aws_codebuild_webhook.this: Creating...&#xA;╷&#xA;│ Error: creating CodeBuild Webhook (github-runner-codebuild-eliza-build): operation error CodeBuild: CreateWebhook, https response error Statu\&#xA;sCode: 400, RequestID: 3d11abf4-d529-45b4-b0e1-caecebf7c98e, InvalidInputException: Access denied to connection arn:aws:codeconnections:us-east\&#xA;-2:767503528736:connection/3f4c6e77-52d9-4d46-a496-b95d31e2674f&#xA;│&#xA;│   with module.github_runner.aws_codebuild_webhook.this,&#xA;│   on ../../main.tf line 101, in resource &amp;#34;aws_codebuild_webhook&amp;#34; &amp;#34;this&amp;#34;:&#xA;│  101: resource &amp;#34;aws_codebuild_webhook&amp;#34; &amp;#34;this&amp;#34; {&#xA;│&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;pre class=&#34;code-block&#34;&gt;&lt;code class=&#34;chroma language-text display&#34;&gt;{&#xA;&#x9;&amp;#34;Version&amp;#34;: &amp;#34;2012-10-17&amp;#34;,&#xA;&#x9;&amp;#34;Statement&amp;#34;: [&#xA;&#x9;&#x9;{&#xA;&#x9;&#x9;&#x9;&amp;#34;Sid&amp;#34;: &amp;#34;VisualEditor0&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Effect&amp;#34;: &amp;#34;Allow&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Action&amp;#34;: [&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:GetConnection&amp;#34;,&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:GetConnectionToken&amp;#34;,&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:ListConnections&amp;#34;,&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:UseConnection&amp;#34;&#xA;&#x9;&#x9;&#x9;],&#xA;&#x9;&#x9;&#x9;&amp;#34;Resource&amp;#34;: &amp;#34;arn:aws:codeconnections:us-east-2:767503528736:connection/3f4c6e77-52d9-4d46-a496-b95d31e2674f&amp;#34;&#xA;&#x9;&#x9;},&#xA;&#x9;&#x9;{&#xA;&#x9;&#x9;&#x9;&amp;#34;Sid&amp;#34;: &amp;#34;VisualEditor1&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Effect&amp;#34;: &amp;#34;Allow&amp;#34;,&#xA;&#x9;&#x9;&#x9;&amp;#34;Action&amp;#34;: [&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:StartOAuthHandshake&amp;#34;,&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:GetResourceSyncStatus&amp;#34;,&#xA;&#x9;&#x9;&#x9;&#x9;&amp;#34;codeconnections:GetIndividualAccessToken&amp;#34;&#xA;&#x9;&#x9;&#x9;],&#xA;&#x9;&#x9;&#x9;&amp;#34;Resource&amp;#34;: &amp;#34;*&amp;#34;&#xA;&#x9;&#x9;}&#xA;&#x9;]&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <content:encoded><![CDATA[applying terraform-aws-github-runners to create github action runners on aws codebuild for arm64
+
+<pre class="code-block"><code class="chroma language-text display">module.github_runner.aws_codebuild_webhook.this: Creating...
+╷
+│ Error: creating CodeBuild Webhook (github-runner-codebuild-eliza-build): operation error CodeBuild: CreateWebhook, https response error Statu\
+sCode: 400, RequestID: 3d11abf4-d529-45b4-b0e1-caecebf7c98e, InvalidInputException: Access denied to connection arn:aws:codeconnections:us-east\
+-2:767503528736:connection/3f4c6e77-52d9-4d46-a496-b95d31e2674f
+│
+│   with module.github_runner.aws_codebuild_webhook.this,
+│   on ../../main.tf line 101, in resource &#34;aws_codebuild_webhook&#34; &#34;this&#34;:
+│  101: resource &#34;aws_codebuild_webhook&#34; &#34;this&#34; {
+│
+</code></pre><pre class="code-block"><code class="chroma language-text display">{
+	&#34;Version&#34;: &#34;2012-10-17&#34;,
+	&#34;Statement&#34;: [
+		{
+			&#34;Sid&#34;: &#34;VisualEditor0&#34;,
+			&#34;Effect&#34;: &#34;Allow&#34;,
+			&#34;Action&#34;: [
+				&#34;codeconnections:GetConnection&#34;,
+				&#34;codeconnections:GetConnectionToken&#34;,
+				&#34;codeconnections:ListConnections&#34;,
+				&#34;codeconnections:UseConnection&#34;
+			],
+			&#34;Resource&#34;: &#34;arn:aws:codeconnections:us-east-2:767503528736:connection/3f4c6e77-52d9-4d46-a496-b95d31e2674f&#34;
+		},
+		{
+			&#34;Sid&#34;: &#34;VisualEditor1&#34;,
+			&#34;Effect&#34;: &#34;Allow&#34;,
+			&#34;Action&#34;: [
+				&#34;codeconnections:StartOAuthHandshake&#34;,
+				&#34;codeconnections:GetResourceSyncStatus&#34;,
+				&#34;codeconnections:GetIndividualAccessToken&#34;
+			],
+			&#34;Resource&#34;: &#34;*&#34;
+		}
+	]
+}
+</code></pre>]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23434045: https://codeberg.org/introspector/SOLFUNMEME/issues/132#issuecomment-2812370</guid>
+      <pubDate>Tue, 11 Feb 2025 17:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#118</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/118#issuecomment-2812206</link>
+      <description>Plan for user driven data collection agent&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://codeberg.org/introspector/SOLFUNMEME/issues/111&#34; class=&#34;ref-issue&#34; rel=&#34;nofollow&#34;&gt;#111&lt;/a&gt;&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[Plan for user driven data collection agent
+
+<p dir="auto"><a href="https://codeberg.org/introspector/SOLFUNMEME/issues/111" class="ref-issue" rel="nofollow">#111</a></p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23430911: https://codeberg.org/introspector/SOLFUNMEME/issues/118#issuecomment-2812206</guid>
+      <pubDate>Tue, 11 Feb 2025 16:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector opened issue introspector/SOLFUNMEME#135</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/135</link>
+      <description>135#openrelay#</description>
+      <content:encoded><![CDATA[<p dir="auto">openrelay<br/>
+Free WebRTC TURN Server - Open Relay Project | Open Relay Project - Free WebRTC TURN Server<br/>
+Rivet.Cloud<br/>
+OpenRelay</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23430893: https://codeberg.org/introspector/SOLFUNMEME/issues/135</guid>
+      <pubDate>Tue, 11 Feb 2025 16:18:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#130</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/130#issuecomment-2812146</link>
+      <description>More packages to test&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/terraformer&#34; rel=&#34;nofollow&#34;&gt;https://github.com/GoogleCloudPlatform/terraformer&lt;/a&gt; i use for extracting terraform from existing resources&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[More packages to test
+
+<p dir="auto"><a href="https://github.com/GoogleCloudPlatform/terraformer" rel="nofollow">https://github.com/GoogleCloudPlatform/terraformer</a> i use for extracting terraform from existing resources</p>
+]]></content:encoded>
+      <author>introspector</author>
+      <guid isPermaLink="false">23429694: https://codeberg.org/introspector/SOLFUNMEME/issues/130#issuecomment-2812146</guid>
+      <pubDate>Tue, 11 Feb 2025 15:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>introspector commented on issue introspector/SOLFUNMEME#29</title>
+      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/29#issuecomment-2812133</link>
+      <description>bounty : market rates solfunmeme website&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;It appears you&amp;#39;re looking to collaborate with individuals, including those with expertise in AI, to contribute to the development of the SolFunMeme website hosted on GitHub. You&amp;#39;re offering compensation in a combination of ZOST1 NFTs and SolFunMeme coins, with the value determined by market rates. The work will undergo a review process by third-party evaluators to ensure it meets the required standards.&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;To get started, interested contributors should follow these steps:&lt;/p&gt;&#xA;&lt;ol dir=&#34;auto&#34;&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Review the Project&lt;/strong&gt;: Visit the GitHub repository at &lt;a href=&#34;https://github.com/meta-introspector/solfunmeme/&#34; rel=&#34;nofollow&#34;&gt;https://github.com/meta-introspector/solfunmeme/&lt;/a&gt; to understand the project&amp;#39;s scope, goals, and current status.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Identify Contribution Areas&lt;/strong&gt;: Determine how you can contribute, whether it&amp;#39;s through coding, design, documentation, or other aspects that could enhance the SolFunMeme website.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Prepare a Proposal&lt;/strong&gt;: Draft a detailed proposal outlining the work you intend to do, how you plan to accomplish it, and the value you believe your contribution will add to the project.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Specify Compensation Request&lt;/strong&gt;: Clearly state the amount of ZOST1 NFTs and SolFunMeme coins you are requesting as compensation for your work, based on market rates.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Raise an Issue on GitHub&lt;/strong&gt;: Go to the SolFunMeme GitHub repository and raise a new issue. In this issue, provide your proposal, including the scope of work, your approach, and your requested compensation. This will serve as your formal application to contribute to the project.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Collaborate and Submit Pull Requests&lt;/strong&gt;: Once your proposal is approved, you can begin working on your contribution. Submit your work as pull requests to the repository, ensuring that each pull request is focused on a specific aspect of your proposal.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;strong&gt;Review and Approval&lt;/strong&gt;: Your contributions will be reviewed by third-party evaluators. Ensure that your work meets the high standards of quality and relevance to the project&amp;#39;s objectives.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;By following these steps, you can become a part of the SolFunMeme project, contribute meaningfully, and earn compensation in the form of ZOST1 NFTs and SolFunMeme coins. Remember, the key to a successful collaboration is clear communication, high-quality work, and adherence to the project&amp;#39;s guidelines and standards.&lt;/p&gt;&#xA;</description>
+      <content:encoded><![CDATA[bounty : market rates solfunmeme website
+
+<p dir="auto">It appears you&#39;re looking to collaborate with individuals, including those with expertise in AI, to contribute to the development of the SolFunMeme website hosted on GitHub. You&#39;re offering compensation in a combination of ZOST1 NFTs and SolFunMeme coins, with the value determined by market rates. The work will undergo a review process by third-party evaluators to ensure it meets the required standards.</p>
+<p dir="auto">To get started, interested contributors should follow these steps:</p>
 <ol dir="auto">
 <li>
-<p dir="auto"><strong>Verify Prerequisites</strong></p>
-<ul dir="auto">
-<li>Ensure you have an AWS account and a VPC set up.</li>
-<li>Familiarize yourself with AWS VPC and PrivateLink concepts.</li>
-<li>Check that you&#39;re operating in a supported AWS region for Amazon Q.</li>
-</ul>
+<p dir="auto"><strong>Review the Project</strong>: Visit the GitHub repository at <a href="https://github.com/meta-introspector/solfunmeme/" rel="nofollow">https://github.com/meta-introspector/solfunmeme/</a> to understand the project&#39;s scope, goals, and current status.</p>
 </li>
 <li>
-<p dir="auto"><strong>Open the Amazon VPC Console</strong></p>
-<ul dir="auto">
-<li>Navigate to the AWS Management Console.</li>
-<li>Open the Amazon VPC console at <a href="https://console.aws.amazon.com/vpc/" rel="nofollow">https://console.aws.amazon.com/vpc/</a>.</li>
-</ul>
+<p dir="auto"><strong>Identify Contribution Areas</strong>: Determine how you can contribute, whether it&#39;s through coding, design, documentation, or other aspects that could enhance the SolFunMeme website.</p>
 </li>
 <li>
-<p dir="auto"><strong>Create an Interface VPC Endpoint</strong></p>
-<ul dir="auto">
-<li>In the navigation pane, choose &#34;Endpoints&#34;.</li>
-<li>Click &#34;Create Endpoint&#34;.</li>
-<li>For &#34;Service category&#34;, select &#34;AWS services&#34;.</li>
-<li>In the &#34;Service Name&#34; search box, enter &#34;q&#34; or &#34;qbusiness&#34;.</li>
-<li>Select the appropriate service name for Amazon Q (e.g., com.amazonaws.region.q or aws.api.region.qbusiness).</li>
-<li>Choose the VPC where you want to create the endpoint.</li>
-<li>Select the subnets where you want to create the endpoint network interfaces.</li>
-<li>Configure the security groups to control access to the endpoint.</li>
-</ul>
+<p dir="auto"><strong>Prepare a Proposal</strong>: Draft a detailed proposal outlining the work you intend to do, how you plan to accomplish it, and the value you believe your contribution will add to the project.</p>
 </li>
 <li>
-<p dir="auto"><strong>Configure DNS Settings</strong></p>
-<ul dir="auto">
-<li>Enable &#34;Enable DNS name&#34; to allow applications to use the default DNS name for the service.</li>
-</ul>
+<p dir="auto"><strong>Specify Compensation Request</strong>: Clearly state the amount of ZOST1 NFTs and SolFunMeme coins you are requesting as compensation for your work, based on market rates.</p>
 </li>
 <li>
-<p dir="auto"><strong>Review and Create</strong></p>
-<ul dir="auto">
-<li>Review your configuration settings.</li>
-<li>Click &#34;Create endpoint&#34; to finalize the process.</li>
-</ul>
+<p dir="auto"><strong>Raise an Issue on GitHub</strong>: Go to the SolFunMeme GitHub repository and raise a new issue. In this issue, provide your proposal, including the scope of work, your approach, and your requested compensation. This will serve as your formal application to contribute to the project.</p>
 </li>
 <li>
-<p dir="auto"><strong>Verify the Endpoint</strong></p>
-<ul dir="auto">
-<li>Once created, the endpoint will appear in your list of VPC endpoints.</li>
-<li>Note the endpoint ID for future reference.</li>
-</ul>
+<p dir="auto"><strong>Collaborate and Submit Pull Requests</strong>: Once your proposal is approved, you can begin working on your contribution. Submit your work as pull requests to the repository, ensuring that each pull request is focused on a specific aspect of your proposal.</p>
 </li>
 <li>
-<p dir="auto"><strong>Update Security Group Rules</strong></p>
-<ul dir="auto">
-<li>Modify your security group rules to allow inbound traffic from your VPC to the new endpoint.</li>
-</ul>
-</li>
-<li>
-<p dir="auto"><strong>Configure Your Application</strong></p>
-<ul dir="auto">
-<li>Update your application configuration to use the VPC endpoint for Amazon Q API calls.</li>
-<li>If using AWS SDKs, they should automatically use the VPC endpoint when making API calls to Amazon Q.</li>
-</ul>
-</li>
-<li>
-<p dir="auto"><strong>Test the Connection</strong></p>
-<ul dir="auto">
-<li>Attempt to make an API call to Amazon Q from within your VPC to verify the connection is working through the interface endpoint.</li>
-</ul>
+<p dir="auto"><strong>Review and Approval</strong>: Your contributions will be reviewed by third-party evaluators. Ensure that your work meets the high standards of quality and relevance to the project&#39;s objectives.</p>
 </li>
 </ol>
-<p dir="auto">By completing these steps, you will have successfully created an interface between Amazon Q and the AI API interface using AWS PrivateLink. This setup ensures that your communication with Amazon Q remains secure and private within the AWS network.</p>
-<p dir="auto">Remember to regularly review and update your VPC endpoint configuration and associated security groups to maintain the security of your environment. Always follow the principle of least privilege when configuring access permissions.<br/>
-Sources<br/>
-[1] [Amazon Q Developer and interface endpoints (AWS PrivateLink) - Amazon Q Developer] (<a href="https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/vpc-interface-endpoints.html" rel="nofollow">https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/vpc-interface-endpoints.html</a>)<br/>
-[3] [Customize Amazon Q in Connect - Amazon Connect] (<a href="https://docs.aws.amazon.com/connect/latest/adminguide/customize-q.html" rel="nofollow">https://docs.aws.amazon.com/connect/latest/adminguide/customize-q.html</a>)<br/>
-[6] [Amazon Q Business and interface Amazon VPC endpoints (AWS PrivateLink) - Amazon Q Business] (<a href="https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/vpc-interface-endpoints.html" rel="nofollow">https://docs.aws.amazon.com/amazonq/latest/qbusiness-ug/vpc-interface-endpoints.html</a>)</p>
+<p dir="auto">By following these steps, you can become a part of the SolFunMeme project, contribute meaningfully, and earn compensation in the form of ZOST1 NFTs and SolFunMeme coins. Remember, the key to a successful collaboration is clear communication, high-quality work, and adherence to the project&#39;s guidelines and standards.</p>
 ]]></content:encoded>
       <author>introspector</author>
-      <guid isPermaLink="false">22902953: https://codeberg.org/introspector/SOLFUNMEME/issues/99</guid>
-      <pubDate>Sun, 02 Feb 2025 11:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#67</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2673326</link>
-      <description>Live streaming logs&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;9am standup&lt;br/&gt;&#xA;&lt;a href=&#34;https://x.com/i/spaces/1YqxovlLRnyJv&#34; rel=&#34;nofollow&#34;&gt;https://x.com/i/spaces/1YqxovlLRnyJv&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Today:&lt;br/&gt;&#xA;working on testing and debugging aws CloudFormation on click installer&lt;/p&gt;&#xA;&lt;p dir=&#34;auto&#34;&gt;Limited X Streaming, Sunday is family day&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Live streaming logs
-
-<p dir="auto">9am standup<br/>
-<a href="https://x.com/i/spaces/1YqxovlLRnyJv" rel="nofollow">https://x.com/i/spaces/1YqxovlLRnyJv</a></p>
-<p dir="auto">Today:<br/>
-working on testing and debugging aws CloudFormation on click installer</p>
-<p dir="auto">Limited X Streaming, Sunday is family day</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22901392: https://codeberg.org/introspector/SOLFUNMEME/issues/67#issuecomment-2673326</guid>
-      <pubDate>Sun, 02 Feb 2025 10:05:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector reopened issue introspector/SOLFUNMEME#23</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667798</link>
-      <description>Setup SOLFUNMEME twitter bot</description>
-      <content:encoded><![CDATA[Setup SOLFUNMEME twitter bot]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22882830: https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667798</guid>
-      <pubDate>Sat, 01 Feb 2025 20:18:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#23</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667797</link>
-      <description>Setup SOLFUNMEME twitter bot&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;done&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Setup SOLFUNMEME twitter bot
-
-<p dir="auto">done</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22882824: https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667797</guid>
-      <pubDate>Sat, 01 Feb 2025 20:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector closed issue introspector/SOLFUNMEME#23</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667796</link>
-      <description>Setup SOLFUNMEME twitter bot</description>
-      <content:encoded><![CDATA[Setup SOLFUNMEME twitter bot]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22882819: https://codeberg.org/introspector/SOLFUNMEME/issues/23#issuecomment-2667796</guid>
-      <pubDate>Sat, 01 Feb 2025 20:17:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#98</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/98</link>
-      <description>98#Add regions to one click installer options#</description>
-      <content:encoded><![CDATA[<p dir="auto">us-east-1<br/>
-us-east-2</p>
-<p dir="auto">Europe (Frankfurt)	eu-central-1</p>
-<p dir="auto"><a href="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html" rel="nofollow">https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html</a></p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22881137: https://codeberg.org/introspector/SOLFUNMEME/issues/98</guid>
-      <pubDate>Sat, 01 Feb 2025 18:41:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#12</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2666365</link>
-      <description>What other companies is working on similar project and what is the worth of these companies&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://github.com/openSVM&#34; rel=&#34;nofollow&#34;&gt;https://github.com/openSVM&lt;/a&gt; chatgpt audit of solana blockchain&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[What other companies is working on similar project and what is the worth of these companies
-
-<p dir="auto"><a href="https://github.com/openSVM" rel="nofollow">https://github.com/openSVM</a> chatgpt audit of solana blockchain</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22868707: https://codeberg.org/introspector/SOLFUNMEME/issues/12#issuecomment-2666365</guid>
-      <pubDate>Sat, 01 Feb 2025 10:17:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#53</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/53#issuecomment-2665962</link>
-      <description>Forge&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://github.com/client-api/forgejo-python&#34; rel=&#34;nofollow&#34;&gt;https://github.com/client-api/forgejo-python&lt;/a&gt;&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Forge
-
-<p dir="auto"><a href="https://github.com/client-api/forgejo-python" rel="nofollow">https://github.com/client-api/forgejo-python</a></p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22855428: https://codeberg.org/introspector/SOLFUNMEME/issues/53#issuecomment-2665962</guid>
-      <pubDate>Sat, 01 Feb 2025 01:17:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#97</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/97</link>
-      <description>97#requests 1#</description>
-      <content:encoded><![CDATA[<p dir="auto">1 new message</p>
-<h3 id="user-content-website-and-social-media-updates" dir="auto">Website and Social Media Updates</h3>
-<ul dir="auto">
-<li>Update the link to the new website.</li>
-<li>Modify Mike&#39;s Twitter bio:
-<ul dir="auto">
-<li>Replace &#34;zos-sfm founder&#34; with &#34;official<br/>
-@zos_sfm<br/>
-Twitter account.&#34;</li>
-</ul>
-</li>
-<li>Update Mike’s Linktree:
-<ul dir="auto">
-<li>Include the official SFM website.</li>
-<li>Include the official Twitter account.</li>
-</ul>
-</li>
-<li>Ensure &#34;solfunmeme&#34; is included in the Twitter account name or at least in the bio:
-<ul dir="auto">
-<li>&#34;Manage and Host your own AI token with one click <em>Solfunmeme</em> CA: BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump.&#34;</li>
-</ul>
-</li>
-<li>Execute a general clean rebrand.</li>
-</ul>
-<h3 id="user-content-communication-strategy" dir="auto">Communication Strategy</h3>
-<ul dir="auto">
-<li>Increase updates/tweets from the main Twitter account:
-<ul dir="auto">
-<li>Consider quote tweeting Mike&#39;s restream on the<br/>
-@zos_sfm<br/>
-account to summarize completed work.</li>
-</ul>
-</li>
-<li>Provide GitHub/Codeberg explanations:
-<ul dir="auto">
-<li>Consider creating a GitBook for documentation; offer assistance or take on the project.</li>
-</ul>
-</li>
-<li>Avoid discussing price or posting SFM charts:
-<ul dir="auto">
-<li>Acknowledge that discussing price is generally taboo for developers on crypto Twitter.</li>
-</ul>
-</li>
-<li>Share general SFM explanations on Twitter:
-<ul dir="auto">
-<li>Address common questions about what SFM is, as many users may not know<br/>
-DJ · 7:29 PM</li>
-</ul>
-</li>
-</ul>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22854138: https://codeberg.org/introspector/SOLFUNMEME/issues/97</guid>
-      <pubDate>Sat, 01 Feb 2025 00:42:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#96</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/96</link>
-      <description>96#Cloud provider kamatera#</description>
-      <content:encoded><![CDATA[<p dir="auto"><a href="https://registry.terraform.io/providers/Kamatera/kamatera/latest/docs" rel="nofollow">https://registry.terraform.io/providers/Kamatera/kamatera/latest/docs</a></p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22843936: https://codeberg.org/introspector/SOLFUNMEME/issues/96</guid>
-      <pubDate>Fri, 31 Jan 2025 20:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#95</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/95</link>
-      <description>95#add single server launch#</description>
-      <content:encoded><![CDATA[<p dir="auto">Modify cloudformation for a single server</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22843318: https://codeberg.org/introspector/SOLFUNMEME/issues/95</guid>
-      <pubDate>Fri, 31 Jan 2025 19:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector opened issue introspector/SOLFUNMEME#94</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/94</link>
-      <description>94#Terraformer#</description>
-      <content:encoded><![CDATA[<p dir="auto"><a href="https://github.com/GoogleCloudPlatform/terraformer" rel="nofollow">https://github.com/GoogleCloudPlatform/terraformer</a><br/>
-<a href="https://former2.com/" rel="nofollow">https://former2.com/</a></p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22843306: https://codeberg.org/introspector/SOLFUNMEME/issues/94</guid>
-      <pubDate>Fri, 31 Jan 2025 19:51:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>JazladCrypto commented on issue introspector/SOLFUNMEME#92</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/92#issuecomment-2664852</link>
-      <description>X (Twitter) and telegram raids&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;&lt;a href=&#34;https://x.com/JazladCrypto21/status/1885338280356462742&#34; rel=&#34;nofollow&#34;&gt;https://x.com/JazladCrypto21/status/1885338280356462742&lt;/a&gt;&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[X (Twitter) and telegram raids
-
-<p dir="auto"><a href="https://x.com/JazladCrypto21/status/1885338280356462742" rel="nofollow">https://x.com/JazladCrypto21/status/1885338280356462742</a></p>
-]]></content:encoded>
-      <author>JazladCrypto</author>
-      <guid isPermaLink="false">22829829: https://codeberg.org/introspector/SOLFUNMEME/issues/92#issuecomment-2664852</guid>
-      <pubDate>Fri, 31 Jan 2025 15:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>JazladCrypto closed issue introspector/SOLFUNMEME#93</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/93#issuecomment-2664851</link>
-      <description>raid</description>
-      <content:encoded><![CDATA[raid]]></content:encoded>
-      <author>JazladCrypto</author>
-      <guid isPermaLink="false">22829823: https://codeberg.org/introspector/SOLFUNMEME/issues/93#issuecomment-2664851</guid>
-      <pubDate>Fri, 31 Jan 2025 15:02:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>JazladCrypto opened issue introspector/SOLFUNMEME#93</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/93</link>
-      <description>93#raid#</description>
-      <content:encoded><![CDATA[<p dir="auto"><a href="https://x.com/JazladCrypto21/status/1885338280356462742" rel="nofollow">https://x.com/JazladCrypto21/status/1885338280356462742</a></p>
-]]></content:encoded>
-      <author>JazladCrypto</author>
-      <guid isPermaLink="false">22829817: https://codeberg.org/introspector/SOLFUNMEME/issues/93</guid>
-      <pubDate>Fri, 31 Jan 2025 15:02:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>introspector commented on issue introspector/SOLFUNMEME#4</title>
-      <link>https://codeberg.org/introspector/SOLFUNMEME/issues/4#issuecomment-2664796</link>
-      <description>Proposal : create inscriptions in SOLFUNMEME&#xA;&#xA;&lt;p dir=&#34;auto&#34;&gt;the idea is we burn tokens to create inscriptions to host other agents on our token with solana&lt;/p&gt;&#xA;</description>
-      <content:encoded><![CDATA[Proposal : create inscriptions in SOLFUNMEME
-
-<p dir="auto">the idea is we burn tokens to create inscriptions to host other agents on our token with solana</p>
-]]></content:encoded>
-      <author>introspector</author>
-      <guid isPermaLink="false">22829141: https://codeberg.org/introspector/SOLFUNMEME/issues/4#issuecomment-2664796</guid>
-      <pubDate>Fri, 31 Jan 2025 14:41:02 +0000</pubDate>
+      <guid isPermaLink="false">23429503: https://codeberg.org/introspector/SOLFUNMEME/issues/29#issuecomment-2812133</guid>
+      <pubDate>Tue, 11 Feb 2025 15:49:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
