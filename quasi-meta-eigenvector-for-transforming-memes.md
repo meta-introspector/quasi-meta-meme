@@ -1,6 +1,4 @@
-Grok 3beta
-
-See new posts
+model : Grok 3beta
 
 create a quasi meta eigenvector for transforming memea
 
