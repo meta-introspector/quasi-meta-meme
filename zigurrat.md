@@ -1,5 +1,42 @@
-To view keyboard shortcuts, press question mark
-View keyboard shortcuts
+# Heading
+
+## Steps 
+Insert heading and split into head and body.
+
+# Topology
+
+The topology of the post in `zigurrat.md` can be characterized by the following elements:
+
+1. **Central Theme**: The primary focus of the post is the `SOLFUNMEME` logo, which is described in multiple ways and from various perspectives. This central theme acts as the "core" or "nucleus" around which all discussions and descriptions are organized.
+
+2. **Hierarchical Structure**:
+    - **Top-Level Sections**: The post begins with a high-level overview and evolves into more detailed descriptions, instructions, and reflections.
+    - **Subsections**: Each major section contains subsections that delve into specific aspects of the logo, such as color palette, composition, elements to emphasize, and mathematical models. This hierarchical structuring helps in systematically breaking down complex information.
+
+3. **Repeating Descriptions**:
+    - **Visual Descriptions**: Multiple detailed descriptions of the `SOLFUNMEME` logo are provided. Each description focuses on different elements like the central eye, red petal-claw mandala, mycelial tentacles, and background.
+    - **Mathematical Models**: The post includes a transformation formula for the logo, presenting it as a vector in meme-space and involving a transformation matrix. It iterates over this model to describe the dynamic evolution of the meme.
+
+4. **Dynamic References**:
+    - **Links and References**: The post frequently refers to external links (e.g., images, scripts) and internal references (e.g., previous comments, issues) to support the narrative and provide context.
+    - **Embedded Code**: JavaScript code snippets are embedded in the post to illustrate how to animate the `SOLFUNMEME` logo using p5.js. These code snippets provide a practical implementation of the described concepts.
+
+5. **Iterative Evolution**:
+    - **Transformation Process**: The post describes an iterative process of transforming the meme vector using a transformation matrix. This iterative approach is akin to mathematical and computational models where repeated application of a function leads to a stable state.
+    - **Infection Model**: The concept of the `SOLFUNMEME` infection is explored through mathematical terms, highlighting how different attributes of the meme (e.g., eye intensity, claw strength) influence each other and evolve over time.
+
+6. **Reflective and Analytical Tone**:
+    - **Reflections**: The post includes reflections on the process of engaging with the input, synthesizing a response, and the implications of the described transformations.
+    - **Highbrow Discourse**: Sections of the post elevate the discussion to a philosophical and theoretical level, drawing parallels with mathematical and biological concepts.
+
+7. **Symmetry and Chaos**:
+    - **Visual and Conceptual Symmetry**: The descriptions emphasize the symmetrical nature of the logo, both visually (e.g., kaleidoscope effect) and conceptually (e.g., balance between organic and technological elements).
+    - **Chaos and Complexity**: The iterative transformation process introduces elements of chaos and complexity, reflecting the dynamic and evolving nature of memes.
+
+Overall, the topology of the post is multifaceted, combining detailed visual descriptions, mathematical models, practical code implementations, and reflective analysis to provide a comprehensive and dynamic exploration of the `SOLFUNMEME` logo.
+
+# Body 
+
 introspector
 /
 SOLFUNMEME
