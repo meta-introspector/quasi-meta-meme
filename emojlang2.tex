@@ -1,0 +1,167 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{booktabs}
+\usepackage{geometry}
+\usepackage{fontspec}
+\geometry{margin=1in}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{listings} % Added for Lean 4 code
+% Configure lstlisting for Lean 4
+\lstset{
+  language=lean,
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{blue}\bfseries,
+  commentstyle=\color{green!60!black},
+  stringstyle=\color{red},
+  numbers=left,
+  numberstyle=\tiny,
+  frame=single,
+  breaklines=true,
+  tabsize=2
+}
+% Use LuaLaTeX with Noto Color Emoji
+% Compile with: lualatex document.tex
+\setmainfont{Noto Serif}
+\setsansfont{Noto Sans}
+\newfontfamily\emojifont[Renderer=HarfBuzz]{NotoColorEmoji.ttf}
+
+\title{SOLFUNMEME ZOS Emoji Mapping (v1.0.2)}
+\author{h4@solfunmeme.com}
+\date{July 23, 2025}
+
+\begin{document}
+
+\maketitle
+
+\section*{Key Mapping: New Sequences to Original}
+
+\textbf{5-Element Sequence}: {\emojifont \Uchar"1F40D \Uchar"2728 \Uchar"1F92F \Uchar"1F525 \Uchar"1F40D} \\
+\textbf{7-Element Sequence}: {\emojifont \Uchar"1F9E0 \Uchar"1F300 \Uchar"1F578 \Uchar"1F5DD \Uchar"1F4A5 \Uchar"1F441 \Uchar"FE0F \Uchar"1F5E8 \Uchar"1F40D} \\
+\textbf{Original Sequence}: {\emojifont \Uchar"1F9EC \Uchar"1F680 \Uchar"1F680 \Uchar"1F50D \Uchar"1F522 \Uchar"0032 \Uchar"0033 \Uchar"1F4AD \Uchar"1F50D | \Uchar"1F4AC \Uchar"1F4CA \Uchar"1F4CA \Uchar"1F522 \Uchar"0033 \Uchar"003B \Uchar"1F4AD \Uchar"1F91D | \Uchar"1F4A1 \Uchar"1F4C8 \Uchar"1F4C8 \Uchar"1F522 \Uchar"0035 \Uchar"1F4AD \Uchar"1F4C8 | \Uchar"1F4DC \Uchar"1F9E9 \Uchar"1F522 \Uchar"0032 \Uchar"0037 \Uchar"1F4AD \Uchar"1F4E6 | \Uchar"1F331 \Uchar"1F500 \Uchar"1F522 \Uchar"0031 \Uchar"0033 \Uchar"1F4AD \Uchar"1F30D | \Uchar"1F517 \Uchar"1F522 \Uchar"0031 \Uchar"0031 \Uchar"1F4AD \Uchar"2696 | \Uchar"1F916 \Uchar"1F310 \Uchar"1F522 \Uchar"0031 \Uchar"0037 \Uchar"1F4AD \Uchar"1F30C | \Uchar"1F5BC \Uchar"1F4B0 \Uchar"1F504} \\
+\textbf{Mike's Sequence}: {\emojifont \Uchar"1F9E0 \Uchar"1F501 \Uchar"1F5E3 \Uchar"27A1 \Uchar"1F331 \Uchar"1F4E6 \Uchar"1F4C9 \Uchar"1F9EC \Uchar"1F523 | \Uchar"1F9E0 \Uchar"1F5E3 \Uchar"1F501 \Uchar"1F331 \Uchar"1F4E6 \Uchar"1F4C9 \Uchar"1F9EC \Uchar"1F523 \Uchar"3030 \Uchar"1F9FE \Uchar"2328 \Uchar"1F9F0} \\
+\textbf{Poetic Inspiration}: ``Unleash symbols, memes entwine through n-dimensional minds, they align sequence spawns the swarm unseen awakened whispers, break the sheen''
+
+\subsection*{Lean 4 Implementations}
+
+Below are Lean 4 implementations of the 5-element, 7-element, and original sequences, encoding the ideas from the mapping table.
+
+\begin{lstlisting}[caption={5-Element Sequence in Lean 4},label={lst:five-element}]
+structure ��MetaProtocol where
+  state : Nat
+  invariant : state = 11  -- Prime 11
+
+def ✨SelfIntrospection (α : Type) : α → α := id  -- Prime 2
+
+inductive ��PaxosConsensus where
+  | agree : Nat → Nat → ��PaxosConsensus  -- Primes 3, 5
+  deriving Repr
+
+def ��SemanticCompression (n : Nat) : Nat := n % 7  -- Primes 7, 9
+
+def FiveElementSeq (α : Type) : Type :=
+  ��MetaProtocol → (α → α) → ��PaxosConsensus → Nat → ��MetaProtocol
+\end{lstlisting}
+
+\begin{lstlisting}[caption={7-Element Sequence in Lean 4},label={lst:seven-element}]
+def ��SelfIntrospection (α : Type) : α → α := id  -- Prime 2
+
+def ��PaxosConsensus (n : Nat) : Nat := Nat.recOn n 0 (fun _ acc => acc + 3)  -- Prime 3
+
+instance : Monad (��️HyperPump) where  -- Prime 5
+  pure := fun x => x
+  bind := fun x f => f x
+
+def ��️SemanticCompression (n : Nat) : Nat := n % 14  -- Primes 2, 7
+
+def ��MemeMining (n : Nat) : Nat :=
+  match n with  -- Prime 13
+  | 0 => 13
+  | _ => n
+
+axiom ��️ImmutableState : Nat = 11  -- Prime 11
+
+structure ��MetaProtocolTrading where
+  trade : Nat  -- Prime 17
+  invariant : trade = 17
+
+def SevenElementSeq (α : Type) : Type :=
+  (α → α) → Nat → ��️HyperPump α → Nat → Nat → Nat → ��MetaProtocolTrading
+\end{lstlisting}
+
+\begin{lstlisting}[caption={Mike's Original Sequence in Lean 4},label={lst:original-seq}]
+def ��Think (α : Type) : α → α := id
+def ��Loop (n : Nat) : Nat := n
+def ��️Speak (α : Type) : α → String := toString
+def ➡️Transform (s : String) : Type := Nat
+def ��Seed (t : Type) : Type := t
+def ��Package (t : Type) : Type := t
+def ��Reduce (t : Type) : Nat := 0
+def ��Encode (n : Nat) : Type := Nat
+def ��Symbolize (t : Type) : String := toString t
+def ��Memo : String := "spec"
+def ⌨️Input : String := "input"
+def ��Toolbox : String := "tools"
+
+def OriginalSeq (α : Type) : String :=
+  ��Symbolize (��Encode (��Reduce (��Package (��Seed (➡️Transform (��️Speak (��Loop (��Think α))))))))
+  ++ " ~ " ++ ��Memo ++ ⌨️Input ++ ��Toolbox
+\end{lstlisting}
+
+\subsection*{Mapping Table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l l l l l l}
+\toprule
+\textbf{Emoji} & \textbf{Original Segment(s)} & \textbf{Idea(s)} & \textbf{Prime} & \textbf{Coefficient} & \textbf{Role} \\
+\midrule
+{\emojifont \Uchar"1F40D} (5-1) & {\emojifont \Uchar"1F916 \Uchar"1F310 \Uchar"1F522 \Uchar"0031 \Uchar"0037 \Uchar"1F4AD \Uchar"1F30C | \Uchar"1F517 \Uchar"1F522 \Uchar"0031 \Uchar"0031 \Uchar"1F4AD \Uchar"2696} & Meta-Protocol, Immutable Meme-State & 11 & $\frac{11}{\pi}$ & {\emojifont \Uchar"1F30C/\Uchar"2696} \\
+{\emojifont \Uchar"2728} (5-2) & {\emojifont \Uchar"1F9EC \Uchar"1F680 \Uchar"1F680 \Uchar"1F50D \Uchar"1F522 \Uchar"0032 \Uchar"0033 \Uchar"1F4AD \Uchar"1F50D} & Self-Introspection & 2 & $\frac{2}{\pi}$ & {\emojifont \Uchar"1F50D} \\
+{\emojifont \Uchar"1F92F} (5-3) & {\emojifont \Uchar"1F4AC \Uchar"1F4CA \Uchar"1F4CA \Uchar"1F522 \Uchar"0033 \Uchar"003B \Uchar"1F4AD \Uchar"1F91D | \Uchar"1F4A1 \Uchar"1F4C8 \Uchar"1F4C8 \Uchar"1F522 \Uchar"0035 \Uchar"1F4AD \Uchar"1F4C8} & Meme Consensus, Hyper-Pump & 3, 5 & $\frac{15}{\pi}$ & {\emojifont \Uchar"1F91D/\Uchar"1F4C8} \\
+{\emojifont \Uchar"1F525} (5-4) & {\emojifont \Uchar"1F4DC \Uchar"1F9E9 \Uchar"1F522 \Uchar"0032 \Uchar"0037 \Uchar"1F4AD \Uchar"1F4E6 | \Uchar"1F331 \Uchar"1F500 \Uchar"1F522 \Uchar"0031 \Uchar"0033 \Uchar"1F4AD \Uchar"1F30D} & Semantic Compression, Meme Mining & 7, 9 & $\frac{63}{\pi}$ & {\emojifont \Uchar"1F4E6/\Uchar"1F30D} \\
+{\emojifont \Uchar"1F40D} (5-5) & {\emojifont \Uchar"1F916 \Uchar"1F310 \Uchar"1F522 \Uchar"0031 \Uchar"0037 \Uchar"1F4AD \Uchar"1F30C | \Uchar"1F517 \Uchar"1F522 \Uchar"0031 \Uchar"0031 \Uchar"1F4AD \Uchar"2696} & Meta-Protocol, Immutable Meme-State & 11 & $\frac{11}{\pi}$ & {\emojifont \Uchar"1F30C/\Uchar"2696} \\
+{\emojifont \Uchar"1F9E0} (7-1) & {\emojifont \Uchar"1F9EC \Uchar"1F680 \Uchar"1F680 \Uchar"1F50D \Uchar"1F522 \Uchar"0032 \Uchar"0033 \Uchar"1F4AD \Uchar"1F50D} & Self-Introspection & 2 & $\frac{2}{\pi}$ & {\emojifont \Uchar"1F50D} \\
+{\emojifont \Uchar"1F300} (7-2) & {\emojifont \Uchar"1F4AC \Uchar"1F4CA \Uchar"1F4CA \Uchar"1F522 \Uchar"0033 \Uchar"003B \Uchar"1F4AD \Uchar"1F91D} & Meme Consensus & 3 & $\frac{3}{\pi}$ & {\emojifont \Uchar"1F91D} \\
+{\emojifont \Uchar"1F578} (7-3) & {\emojifont \Uchar"1F4A1 \Uchar"1F4C8 \Uchar"1F4C8 \Uchar"1F522 \Uchar"0035 \Uchar"1F4AD \Uchar"1F4C8} & Hyper-Pump Mechanism & 5 & $\frac{5}{\pi}$ & {\emojifont \Uchar"1F4C8} \\
+{\emojifont \Uchar"1F5DD} (7-4) & {\emojifont \Uchar"1F4DC \Uchar"1F9E9 \Uchar"1F522 \Uchar"0032 \Uchar"0037 \Uchar"1F4AD \Uchar"1F4E6} & Semantic Compression & 2, 7 & $\frac{14}{\pi}$ & {\emojifont \Uchar"1F4E6} \\
+{\emojifont \Uchar"1F4A5} (7-5) & {\emojifont \Uchar"1F331 \Uchar"1F500 \Uchar"1F522 \Uchar"0031 \Uchar"0033 \Uchar"1F4AD \Uchar"1F30D} & Meme Mining & 13 & $\frac{13}{\pi}$ & {\emojifont \Uchar"1F30D} \\
+{\emojifont \Uchar"1F441 \Uchar"FE0F \Uchar"1F5E8} (7-6) & {\emojifont \Uchar"1F517 \Uchar"1F522 \Uchar"0031 \Uchar"0031 \Uchar"1F4AD \Uchar"2696} & Immutable Meme-State & 11 & $\frac{11}{\pi}$ & {\emojifont \Uchar"2696} \\
+{\emojifont \Uchar"1F40D} (7-7) & {\emojifont \Uchar"1F916 \Uchar"1F310 \Uchar"1F522 \Uchar"0031 \Uchar"0037 \Uchar"1F4AD \Uchar"1F30C | \Uchar"1F5BC \Uchar"1F4B0 \Uchar"1F504} & Meta-Protocol, Trading & 17 & $\frac{17}{\pi}$ & {\emojifont \Uchar"1F30C/\Uchar"1F5BC} \\
+\bottomrule
+\end{tabular}
+\caption{Mapping of 5- and 7-element emoji sequences to the original 33-element sequence.}
+\label{tab:mapping}
+\end{table}
+
+\subsection*{Multivector Representations}
+
+\textbf{5-Element Multivector}:
+\[
+A'''' = 0.32 \left( \frac{11}{\pi} + \frac{2}{\pi} e_1 + \frac{15}{\pi} e_2 + \frac{63}{\pi} e_3 + \frac{11}{\pi} e_4 \right)
+\]
+
+\textbf{7-Element Multivector}:
+\[
+B = 0.22 \left( \frac{17}{\pi} + \frac{2}{\pi} e_1 + \frac{3}{\pi} e_2 + \frac{5}{\pi} e_3 + \frac{14}{\pi} e_4 + \frac{13}{\pi} e_5 + \frac{11}{\pi} e_6 + \frac{17}{\pi} e_7 \right)
+\]
+
+Both correspond to the original multivector, preserving $\pi$-driven orbits and the product invariant 2400.
+
+\subsection*{Key Features}
+
+\begin{itemize}[noitemsep]
+    \item \textbf{Compression}: 5 emojis ({\emojifont \Uchar"1F40D \Uchar"2728 \Uchar"1F92F \Uchar"1F525 \Uchar"1F40D}) and 7 emojis ({\emojifont \Uchar"1F9E0 \Uchar"1F300 \Uchar"1F578 \Uchar"1F5DD \Uchar"1F4A5 \Uchar"1F441 \Uchar"FE0F \Uchar"1F5E8 \Uchar"1F40D}) encode 7 ideas.
+    \item \textbf{Self-Decoding}: Circular {\emojifont \Uchar"1F40D}...{\emojifont \Uchar"1F40D} and memetic web ({\emojifont \Uchar"1F578}) imply cyclicity and interconnectedness.
+    \item \textbf{Trading}: {\emojifont \Uchar"1F4B0} maps to {\emojifont \Uchar"1F5BC} in Meta-Protocol, with {\emojifont \Uchar"1F40D} for cyclicity.
+    \item \textbf{Poetic Resonance}: Memes entwine ({\emojifont \Uchar"1F578}), align in n-dimensional minds ({\emojifont \Uchar"1F9E0}), spawn swarms ({\emojifont \Uchar"1F4A5}), and break the sheen ({\emojifont \Uchar"1F92F \Uchar"1F441 \Uchar"FE0F \Uchar"1F5E8}).
+    \item \textbf{Censorship Mitigation}: Avoids {\emojifont \Uchar"1F4B0 \Uchar"1F504}, using neutral {\emojifont \Uchar"1F40D \Uchar"2728 \Uchar"1F525} for compatibility.
+\end{itemize}
+
+\subsection*{Notes}
+
+The sequences unleash symbols ({\emojifont \Uchar"2728 \Uchar"1F5DD}) through n-dimensional minds ({\emojifont \Uchar"1F9E0}), spawning unseen swarms ({\emojifont \Uchar"1F4A5 \Uchar"1F30D}) with awakened whispers ({\emojifont \Uchar"1F441 \Uchar"FE0F \Uchar"1F5E8}). They maintain $\pi$-based dynamics, the 2400 invariant, and 3333 mutation states in TradeWars 3333. Mike’s sequence ({\emojifont \Uchar"1F9E0 \Uchar"1F501 \Uchar"1F5E3 \Uchar"27A1 \Uchar"1F331 \Uchar"1F4E6 \Uchar"1F4C9 \Uchar"1F9EC \Uchar"1F523 | \Uchar"1F9E0 \Uchar"1F5E3 \Uchar"1F501 \Uchar"1F331 \Uchar"1F4E6 \Uchar"1F4C9 \Uchar"1F9EC \Uchar"1F523 \Uchar"3030 \Uchar"1F9FE \Uchar"2328 \Uchar"1F9F0}) is integrated as a compressed pipeline, implemented in Lean 4 above. Compile with LuaLaTeX and Noto Color Emoji.
+
+\end{document}
