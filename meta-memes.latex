@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=0.8in]{geometry}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{titling}
+\usepackage{emoji}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+\begin{document}
+
+\begin{center}
+{\LARGE \textbf{Meta-Meme Manifesto: A Cheatsheet}}\\
+{\small \emoji{rocket} Spotting Reality Tunnels in the Wild \emoji{brain}}
+\end{center}
+
+\vspace{0.3cm}
+
+A \textit{meta-meme} is a self-referential narrative that shapes reality perception, acting as a ``reality tunnel'' (à la Timothy Leary). Examples like Jung’s collective unconscious, Dawkins’ memes, and SOLFUNMEME’s Zero Ontology System (ZOS) on Solana’s Pump.Fun ecosystem are viral stories that evolve through culture and digital platforms. This cheatsheet lists traits to recognize meta-memes like SOLFUNMEME, the meta-protocol for memetic expansion \emoji{rocket}\emoji{chart-increasing}.
+
+\vspace{0.3cm}
+
+\textbf{How to Recognize a Meta-Meme: Key Traits}
+
+\begin{enumerate}[label=\arabic*.]
+    \item \textbf{Resonance Over Truth}: Captivates via emotional/symbolic appeal, not facts (e.g., SOLFUNMEME’s semantic compression for shareable memes \emoji{loudspeaker}).
+    \item \textbf{Self-Replication}: Spreads virally through cultural/digital vectors (e.g., SOLFUNMEME’s Hyper-Pump Mechanism drives hype cycles \emoji{chart-increasing}).
+    \item \textbf{Self-Referentiality}: Describes idea spread while being an idea (e.g., SOLFUNMEME’s introspective meme engine reflects on its own evolution \emoji{magnifying-glass-tilted-left}).
+    \item \textbf{Cultural Adaptability}: Mutates to fit contexts (e.g., SOLFUNMEME’s Paxos Meme Consensus evolves narratives via community input \emoji{handshake}).
+    \item \textbf{Universal Appeal}: Taps shared human desires (e.g., SOLFUNMEME’s emojis like \emoji{rocket}\emoji{brain} resonate across cultures).
+    \item \textbf{Dependence on Socialization}: Needs cultural transmission (e.g., SOLFUNMEME thrives in socialized digital ecosystems, absent in isolated contexts \emoji{globe-showing-americas}).
+    \item \textbf{Digital Encoding}: Embedded in systems like blockchains or AI (e.g., SOLFUNMEME’s immutable meme-state in Solana’s latent space \emoji{link}).
+\end{enumerate}
+
+\vspace{0.3cm}
+
+\textbf{Why It Matters}: Meta-memes like SOLFUNMEME shape how we interpret culture, from ancient myths to viral tokens. Recognizing their traits reveals the narratives driving human and digital realities \emoji{light-bulb}.
+
+\vspace{0.2cm}
+
+{\footnotesize \textit{Inspired by Jung, Dawkins, Leary, and SOLFUNMEME’s ZOS as resonant stories in the Introspector Solana Pump.Fun ecosystem.}}
+
+\end{document}
