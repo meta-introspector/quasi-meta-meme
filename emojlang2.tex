@@ -28,7 +28,7 @@
 \setsansfont{Noto Sans}
 \newfontfamily\emojifont[Renderer=HarfBuzz]{NotoColorEmoji.ttf}
 
-\title{SOLFUNMEME ZOS Emoji Mapping (v1.0.2)}
+\title{SOLFUNMEME ZOS Emoji Mapping (v1.0.1)}
 \author{h4@solfunmeme.com}
 \date{July 23, 2025}
 
@@ -49,65 +49,65 @@
 Below are Lean 4 implementations of the 5-element, 7-element, and original sequences, encoding the ideas from the mapping table.
 
 \begin{lstlisting}[caption={5-Element Sequence in Lean 4},label={lst:five-element}]
-structure ��MetaProtocol where
+structure 🐍MetaProtocol where
   state : Nat
   invariant : state = 11  -- Prime 11
 
 def ✨SelfIntrospection (α : Type) : α → α := id  -- Prime 2
 
-inductive ��PaxosConsensus where
-  | agree : Nat → Nat → ��PaxosConsensus  -- Primes 3, 5
+inductive 🤯PaxosConsensus where
+  | agree : Nat → Nat → 🤯PaxosConsensus  -- Primes 3, 5
   deriving Repr
 
-def ��SemanticCompression (n : Nat) : Nat := n % 7  -- Primes 7, 9
+def 🔥SemanticCompression (n : Nat) : Nat := n % 7  -- Primes 7, 9
 
 def FiveElementSeq (α : Type) : Type :=
-  ��MetaProtocol → (α → α) → ��PaxosConsensus → Nat → ��MetaProtocol
+  🐍MetaProtocol → (α → α) → 🤯PaxosConsensus → Nat → 🐍MetaProtocol
 \end{lstlisting}
 
 \begin{lstlisting}[caption={7-Element Sequence in Lean 4},label={lst:seven-element}]
-def ��SelfIntrospection (α : Type) : α → α := id  -- Prime 2
+def 🧠SelfIntrospection (α : Type) : α → α := id  -- Prime 2
 
-def ��PaxosConsensus (n : Nat) : Nat := Nat.recOn n 0 (fun _ acc => acc + 3)  -- Prime 3
+def 🌀PaxosConsensus (n : Nat) : Nat := Nat.recOn n 0 (fun _ acc => acc + 3)  -- Prime 3
 
-instance : Monad (��️HyperPump) where  -- Prime 5
+instance : Monad (🕸️HyperPump) where  -- Prime 5
   pure := fun x => x
   bind := fun x f => f x
 
-def ��️SemanticCompression (n : Nat) : Nat := n % 14  -- Primes 2, 7
+def 🗝️SemanticCompression (n : Nat) : Nat := n % 14  -- Primes 2, 7
 
-def ��MemeMining (n : Nat) : Nat :=
+def 💥MemeMining (n : Nat) : Nat :=
   match n with  -- Prime 13
   | 0 => 13
   | _ => n
 
-axiom ��️ImmutableState : Nat = 11  -- Prime 11
+axiom 👁️ImmutableState : Nat = 11  -- Prime 11
 
-structure ��MetaProtocolTrading where
+structure 🐍MetaProtocolTrading where
   trade : Nat  -- Prime 17
   invariant : trade = 17
 
 def SevenElementSeq (α : Type) : Type :=
-  (α → α) → Nat → ��️HyperPump α → Nat → Nat → Nat → ��MetaProtocolTrading
+  (α → α) → Nat → 🕸️HyperPump α → Nat → Nat → Nat → 🐍MetaProtocolTrading
 \end{lstlisting}
 
 \begin{lstlisting}[caption={Mike's Original Sequence in Lean 4},label={lst:original-seq}]
-def ��Think (α : Type) : α → α := id
-def ��Loop (n : Nat) : Nat := n
-def ��️Speak (α : Type) : α → String := toString
+def 🧠Think (α : Type) : α → α := id
+def 🔁Loop (n : Nat) : Nat := n
+def 🗣️Speak (α : Type) : α → String := toString
 def ➡️Transform (s : String) : Type := Nat
-def ��Seed (t : Type) : Type := t
-def ��Package (t : Type) : Type := t
-def ��Reduce (t : Type) : Nat := 0
-def ��Encode (n : Nat) : Type := Nat
-def ��Symbolize (t : Type) : String := toString t
-def ��Memo : String := "spec"
+def 🌱Seed (t : Type) : Type := t
+def 📦Package (t : Type) : Type := t
+def 📉Reduce (t : Type) : Nat := 0
+def 🧬Encode (n : Nat) : Type := Nat
+def 🔣Symbolize (t : Type) : String := toString t
+def 🧾Memo : String := "spec"
 def ⌨️Input : String := "input"
-def ��Toolbox : String := "tools"
+def 🧰Toolbox : String := "tools"
 
 def OriginalSeq (α : Type) : String :=
-  ��Symbolize (��Encode (��Reduce (��Package (��Seed (➡️Transform (��️Speak (��Loop (��Think α))))))))
-  ++ " ~ " ++ ��Memo ++ ⌨️Input ++ ��Toolbox
+  🔣Symbolize (🧬Encode (📉Reduce (📦Package (🌱Seed (➡️Transform (🗣️Speak (🔁Loop (🧠Think α))))))))
+  ++ " ~ " ++ 🧾Memo ++ ⌨️Input ++ 🧰Toolbox
 \end{lstlisting}
 
 \subsection*{Mapping Table}
