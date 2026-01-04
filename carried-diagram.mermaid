@@ -1,0 +1,89 @@
+
+graph TD
+    %% Define styles
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px
+    classDef added fill:#ffe6cc,stroke:#d79b00,stroke-width:1px
+    classDef concept fill:#dae8fc,stroke:#6c8ebf,stroke-width:1px
+    classDef proof fill:#d5e8d4,stroke:#82b366,stroke-width:1px
+    classDef function fill:#e1d5e7,stroke:#9673a6,stroke-width:1px
+    classDef visual fill:#fff2cc,stroke:#d6b656,stroke-width:1px
+    
+    %% Core conceptual framework
+    MathFramework[("Mathematical<br/>Framework")]:::added
+    
+    %% Main branches
+    MathFramework --> NumberSystems["Number Systems"]:::concept
+    MathFramework --> Characteristics["Characteristics"]:::concept
+    MathFramework --> Boundaries["Boundaries"]:::concept
+    MathFramework --> Operations["Operations"]:::concept
+    
+    %% Number Systems branch
+    NumberSystems --> A["nonstandard<br/>multiple-layers"]:::concept
+    NumberSystems --> B["reals"]:::concept
+    
+    %% Characteristics branch
+    Characteristics --> C["generic"]:::concept
+    Characteristics --> D["specific"]:::concept
+    
+    %% Boundaries branch
+    Boundaries --> E["infinite"]:::concept
+    Boundaries --> F["finite"]:::concept
+    Boundaries --> G["unlimited"]:::concept
+    Boundaries --> H["limited"]:::concept
+    H --- I["outside/inside"]:::concept
+    
+    %% Quality Framework branch
+    Operations --> QualityCluster["Quality Framework"]:::added
+    QualityCluster --> J["idea"]:::concept
+    J --> K["quality"]:::concept
+    K --> L["precision"]:::concept
+    L --> M["topology"]:::concept
+    K --> N["accuracy"]:::concept
+    
+    %% Functional relationships
+    Operations --> FunctionCluster["Functional Analysis"]:::added
+    FunctionCluster --> O["carried"]:::function
+    O --> P["proof"]:::proof
+    FunctionCluster --> Q["function"]:::function
+    Q --> R["everywhere"]:::function
+    
+    %% Discovery process
+    Operations --> DiscoveryCluster["Discovery Process"]:::added
+    DiscoveryCluster --> S["find"]:::function
+    S --> T["hidden"]:::function
+    
+    %% Proof mechanics
+    P --> ProofCluster["Proof Process"]:::added
+    ProofCluster --> U["pause"]:::proof
+    ProofCluster --> V["nolap"]:::proof
+    
+    %% Communication
+    Operations --> CommunicationCluster["Communication"]:::added
+    CommunicationCluster --> W["carrier"]:::function
+    Carrier -- W["carrier"]:::function
+    
+    W --> X["summarize"]:::function
+    
+    %% Visualization section
+    Operations --> VisualCluster["Visualization"]:::added
+    VisualCluster --> Y["visualize"]:::visual
+    Y --> Z["omit"]:::visual
+    
+    %% Multiple concepts
+    Operations --> MultipleCluster["Multiplicity"]:::added
+    MultipleCluster --> AA["multiple"]:::function
+    MultipleCluster --> AA["add"]:::function
+    MultipleCluster --> AA["merge"]:::function
+    AA --> AB["recognize"]:::function
+    AA --> AC["imbed"]:::function
+    
+    %% Validation framework
+    Operations --> ValidationCluster["Validation"]:::added
+    ValidationCluster --> AD["converge"]:::proof
+    ValidationCluster --> AE["agree"]:::proof
+    
+    AE --- AF["assumption"]:::proof
+    ValidationCluster --> AG["proof"]:::proof
+    AG --> AH["validate"]:::proof
+    AH --- AI["confirm"]:::proof
+    AH --- AJ["check"]:::proof
